@@ -12,7 +12,7 @@ Year,Month,County_City,Median_Sale_Value
 2016, Jan,Bedford County,189262.5
 2016, Jan,Bland County,24000
 2016, Jan,Botetourt County,230000
-2016, Jan,Bristol City,N/A
+2016, Jan,Bristol City,
 2016, Jan,Brunswick County,20000
 2016, Jan,Buchanan County,28250
 2016, Jan,Buckingham County,132000
@@ -27,12 +27,12 @@ Year,Month,County_City,Median_Sale_Value
 2016, Jan,Chesterfield County,210000
 2016, Jan,Clarke County,281950
 2016, Jan,Colonial Heights City,139000
-2016, Jan,Covington City,N/A
+2016, Jan,Covington City,
 2016, Jan,Craig County,237500
 2016, Jan,Culpeper County,227450
 2016, Jan,Cumberland County,127500
 2016, Jan,Danville City,89900
-2016, Jan,Dickenson County,N/A
+2016, Jan,Dickenson County,
 2016, Jan,Dinwiddie County,124385
 2016, Jan,Emporia City,131250
 2016, Jan,Essex County,128500
@@ -67,7 +67,7 @@ Year,Month,County_City,Median_Sale_Value
 2016, Jan,King George County,267950
 2016, Jan,King William County,190000
 2016, Jan,Lancaster County,277500
-2016, Jan,Lee County,N/A
+2016, Jan,Lee County,
 2016, Jan,Lexington City,160000
 2016, Jan,Loudoun County,432200
 2016, Jan,Louisa County,218450
@@ -87,7 +87,7 @@ Year,Month,County_City,Median_Sale_Value
 2016, Jan,Norfolk City,168000
 2016, Jan,Northampton County,235000
 2016, Jan,Northumberland County,171250
-2016, Jan,Norton City,N/A
+2016, Jan,Norton City,
 2016, Jan,Nottoway County,59000
 2016, Jan,Orange County,176750
 2016, Jan,Page County,141900
@@ -111,7 +111,7 @@ Year,Month,County_City,Median_Sale_Value
 2016, Jan,Rockingham County,215000
 2016, Jan,Russell County,73000
 2016, Jan,Salem City,149950
-2016, Jan,Scott County,N/A
+2016, Jan,Scott County,
 2016, Jan,Shenandoah County,159000
 2016, Jan,Smyth County,149000
 2016, Jan,Southampton County,180000
@@ -129,7 +129,7 @@ Year,Month,County_City,Median_Sale_Value
 2016, Jan,Westmoreland County,147475
 2016, Jan,Williamsburg City,230461
 2016, Jan,Winchester City,210000
-2016, Jan,Wise County,N/A
+2016, Jan,Wise County,
 2016, Jan,Wythe County,144750
 2016, Jan,York County,272500
 2016, Feb,Accomack County,154000
@@ -145,7 +145,7 @@ Year,Month,County_City,Median_Sale_Value
 2016, Feb,Bedford County,190000
 2016, Feb,Bland County,190500
 2016, Feb,Botetourt County,193000
-2016, Feb,Bristol City,N/A
+2016, Feb,Bristol City,
 2016, Feb,Brunswick County,77000
 2016, Feb,Buchanan County,36000
 2016, Feb,Buckingham County,97500
@@ -165,9 +165,9 @@ Year,Month,County_City,Median_Sale_Value
 2016, Feb,Culpeper County,245000
 2016, Feb,Cumberland County,179950
 2016, Feb,Danville City,85200
-2016, Feb,Dickenson County,N/A
+2016, Feb,Dickenson County,
 2016, Feb,Dinwiddie County,115000
-2016, Feb,Emporia City,N/A
+2016, Feb,Emporia City,
 2016, Feb,Essex County,139950
 2016, Feb,Fairfax City,490000
 2016, Feb,Fairfax County,445000
@@ -192,7 +192,7 @@ Year,Month,County_City,Median_Sale_Value
 2016, Feb,Harrisonburg City,191000
 2016, Feb,Henrico County,203000
 2016, Feb,Henry County,55000
-2016, Feb,Highland County,N/A
+2016, Feb,Highland County,
 2016, Feb,Hopewell City,88450
 2016, Feb,Isle of Wight County,262000
 2016, Feb,James City County,285000
@@ -244,7 +244,7 @@ Year,Month,County_City,Median_Sale_Value
 2016, Feb,Rockingham County,195000
 2016, Feb,Russell County,71800
 2016, Feb,Salem City,165500
-2016, Feb,Scott County,N/A
+2016, Feb,Scott County,
 2016, Feb,Shenandoah County,137500
 2016, Feb,Smyth County,82700
 2016, Feb,Southampton County,235000
@@ -274,7 +274,7 @@ Year,Month,County_City,Median_Sale_Value
 2016, Mar,Appomattox County,133000
 2016, Mar,Arlington County,525000
 2016, Mar,Augusta County,177000
-2016, Mar,Bath County,N/A
+2016, Mar,Bath County,
 2016, Mar,Bedford County,195000
 2016, Mar,Bland County,35000
 2016, Mar,Botetourt County,165000
@@ -325,7 +325,7 @@ Year,Month,County_City,Median_Sale_Value
 2016, Mar,Harrisonburg City,171000
 2016, Mar,Henrico County,203750
 2016, Mar,Henry County,79700
-2016, Mar,Highland County,N/A
+2016, Mar,Highland County,
 2016, Mar,Hopewell City,115000
 2016, Mar,Isle of Wight County,251000
 2016, Mar,James City County,300637.5
@@ -333,7 +333,7 @@ Year,Month,County_City,Median_Sale_Value
 2016, Mar,King George County,339000
 2016, Mar,King William County,177950
 2016, Mar,Lancaster County,149500
-2016, Mar,Lee County,N/A
+2016, Mar,Lee County,
 2016, Mar,Lexington City,130000
 2016, Mar,Loudoun County,445000
 2016, Mar,Louisa County,174999.5
@@ -353,7 +353,7 @@ Year,Month,County_City,Median_Sale_Value
 2016, Mar,Norfolk City,174900
 2016, Mar,Northampton County,185750
 2016, Mar,Northumberland County,180000
-2016, Mar,Norton City,N/A
+2016, Mar,Norton City,
 2016, Mar,Nottoway County,40299
 2016, Mar,Orange County,218750
 2016, Mar,Page County,101050
@@ -413,7 +413,7 @@ Year,Month,County_City,Median_Sale_Value
 2016, Apr,Botetourt County,199950
 2016, Apr,Bristol City,145000
 2016, Apr,Brunswick County,113600
-2016, Apr,Buchanan County,N/A
+2016, Apr,Buchanan County,
 2016, Apr,Buckingham County,118500
 2016, Apr,Buena Vista City,98850
 2016, Apr,Campbell County,149900
@@ -433,7 +433,7 @@ Year,Month,County_City,Median_Sale_Value
 2016, Apr,Danville City,90000
 2016, Apr,Dickenson County,44900
 2016, Apr,Dinwiddie County,135700
-2016, Apr,Emporia City,N/A
+2016, Apr,Emporia City,
 2016, Apr,Essex County,150000
 2016, Apr,Fairfax City,500000
 2016, Apr,Fairfax County,480000
@@ -451,7 +451,7 @@ Year,Month,County_City,Median_Sale_Value
 2016, Apr,Goochland County,385000
 2016, Apr,Grayson County,160000
 2016, Apr,Greene County,256200
-2016, Apr,Greensville County,N/A
+2016, Apr,Greensville County,
 2016, Apr,Halifax County,103000
 2016, Apr,Hampton City,165000
 2016, Apr,Hanover County,268950
@@ -466,7 +466,7 @@ Year,Month,County_City,Median_Sale_Value
 2016, Apr,King George County,289900
 2016, Apr,King William County,178475
 2016, Apr,Lancaster County,220000
-2016, Apr,Lee County,N/A
+2016, Apr,Lee County,
 2016, Apr,Lexington City,215000
 2016, Apr,Loudoun County,434450
 2016, Apr,Louisa County,210500
@@ -486,7 +486,7 @@ Year,Month,County_City,Median_Sale_Value
 2016, Apr,Norfolk City,189900
 2016, Apr,Northampton County,189900
 2016, Apr,Northumberland County,287500
-2016, Apr,Norton City,N/A
+2016, Apr,Norton City,
 2016, Apr,Nottoway County,145000
 2016, Apr,Orange County,192000
 2016, Apr,Page County,111500
@@ -584,7 +584,7 @@ Year,Month,County_City,Median_Sale_Value
 2016, May,Goochland County,344455
 2016, May,Grayson County,87149.5
 2016, May,Greene County,259000
-2016, May,Greensville County,N/A
+2016, May,Greensville County,
 2016, May,Halifax County,87225
 2016, May,Hampton City,157000
 2016, May,Hanover County,250000
@@ -599,7 +599,7 @@ Year,Month,County_City,Median_Sale_Value
 2016, May,King George County,250000
 2016, May,King William County,149900
 2016, May,Lancaster County,296000
-2016, May,Lee County,N/A
+2016, May,Lee County,
 2016, May,Lexington City,209000
 2016, May,Loudoun County,451000
 2016, May,Louisa County,200000
@@ -619,7 +619,7 @@ Year,Month,County_City,Median_Sale_Value
 2016, May,Norfolk City,200000
 2016, May,Northampton County,127500
 2016, May,Northumberland County,242500
-2016, May,Norton City,N/A
+2016, May,Norton City,
 2016, May,Nottoway County,80250
 2016, May,Orange County,234000
 2016, May,Page County,110000
@@ -661,7 +661,7 @@ Year,Month,County_City,Median_Sale_Value
 2016, May,Westmoreland County,177250
 2016, May,Williamsburg City,271000
 2016, May,Winchester City,212450
-2016, May,Wise County,N/A
+2016, May,Wise County,
 2016, May,Wythe County,98000
 2016, May,York County,264000
 2016, Jun,Accomack County,153300
@@ -678,7 +678,7 @@ Year,Month,County_City,Median_Sale_Value
 2016, Jun,Bland County,134000
 2016, Jun,Botetourt County,245000
 2016, Jun,Bristol City,79600
-2016, Jun,Brunswick County,N/A
+2016, Jun,Brunswick County,
 2016, Jun,Buchanan County,61750
 2016, Jun,Buckingham County,114900
 2016, Jun,Buena Vista City,154900
@@ -697,9 +697,9 @@ Year,Month,County_City,Median_Sale_Value
 2016, Jun,Culpeper County,277500
 2016, Jun,Cumberland County,126500
 2016, Jun,Danville City,112000
-2016, Jun,Dickenson County,N/A
+2016, Jun,Dickenson County,
 2016, Jun,Dinwiddie County,149975
-2016, Jun,Emporia City,N/A
+2016, Jun,Emporia City,
 2016, Jun,Essex County,153000
 2016, Jun,Fairfax City,460000
 2016, Jun,Fairfax County,515000
@@ -717,14 +717,14 @@ Year,Month,County_City,Median_Sale_Value
 2016, Jun,Goochland County,309000
 2016, Jun,Grayson County,89000
 2016, Jun,Greene County,262519
-2016, Jun,Greensville County,N/A
+2016, Jun,Greensville County,
 2016, Jun,Halifax County,80000
 2016, Jun,Hampton City,159450
 2016, Jun,Hanover County,270000
 2016, Jun,Harrisonburg City,159000
 2016, Jun,Henrico County,242500
 2016, Jun,Henry County,80600
-2016, Jun,Highland County,N/A
+2016, Jun,Highland County,
 2016, Jun,Hopewell City,139950
 2016, Jun,Isle of Wight County,275000
 2016, Jun,James City County,319990
@@ -752,7 +752,7 @@ Year,Month,County_City,Median_Sale_Value
 2016, Jun,Norfolk City,200000
 2016, Jun,Northampton County,170900
 2016, Jun,Northumberland County,285000
-2016, Jun,Norton City,N/A
+2016, Jun,Norton City,
 2016, Jun,Nottoway County,76125
 2016, Jun,Orange County,226000
 2016, Jun,Page County,149000
@@ -794,7 +794,7 @@ Year,Month,County_City,Median_Sale_Value
 2016, Jun,Westmoreland County,163875
 2016, Jun,Williamsburg City,286167
 2016, Jun,Winchester City,252000
-2016, Jun,Wise County,N/A
+2016, Jun,Wise County,
 2016, Jun,Wythe County,131500
 2016, Jun,York County,325000
 2016, Jul,Accomack County,149000
@@ -825,7 +825,7 @@ Year,Month,County_City,Median_Sale_Value
 2016, Jul,Chesterfield County,237450
 2016, Jul,Clarke County,335900
 2016, Jul,Colonial Heights City,128950
-2016, Jul,Covington City,N/A
+2016, Jul,Covington City,
 2016, Jul,Craig County,113000
 2016, Jul,Culpeper County,259450
 2016, Jul,Cumberland County,127169
@@ -850,14 +850,14 @@ Year,Month,County_City,Median_Sale_Value
 2016, Jul,Goochland County,439554
 2016, Jul,Grayson County,84900
 2016, Jul,Greene County,209500
-2016, Jul,Greensville County,N/A
+2016, Jul,Greensville County,
 2016, Jul,Halifax County,112500
 2016, Jul,Hampton City,164600
 2016, Jul,Hanover County,271212
 2016, Jul,Harrisonburg City,180000
 2016, Jul,Henrico County,236000
 2016, Jul,Henry County,99000
-2016, Jul,Highland County,N/A
+2016, Jul,Highland County,
 2016, Jul,Hopewell City,130000
 2016, Jul,Isle of Wight County,290000
 2016, Jul,James City County,290000
@@ -865,7 +865,7 @@ Year,Month,County_City,Median_Sale_Value
 2016, Jul,King George County,263250
 2016, Jul,King William County,173950
 2016, Jul,Lancaster County,207000
-2016, Jul,Lee County,N/A
+2016, Jul,Lee County,
 2016, Jul,Lexington City,258000
 2016, Jul,Loudoun County,451700
 2016, Jul,Louisa County,206500
@@ -885,7 +885,7 @@ Year,Month,County_City,Median_Sale_Value
 2016, Jul,Norfolk City,199000
 2016, Jul,Northampton County,170000
 2016, Jul,Northumberland County,291250
-2016, Jul,Norton City,N/A
+2016, Jul,Norton City,
 2016, Jul,Nottoway County,143500
 2016, Jul,Orange County,235450
 2016, Jul,Page County,185000
@@ -909,7 +909,7 @@ Year,Month,County_City,Median_Sale_Value
 2016, Jul,Rockingham County,220000
 2016, Jul,Russell County,82500
 2016, Jul,Salem City,148000
-2016, Jul,Scott County,N/A
+2016, Jul,Scott County,
 2016, Jul,Shenandoah County,178500
 2016, Jul,Smyth County,90000
 2016, Jul,Southampton County,110000
@@ -958,14 +958,14 @@ Year,Month,County_City,Median_Sale_Value
 2016, Aug,Chesterfield County,240000
 2016, Aug,Clarke County,371495
 2016, Aug,Colonial Heights City,137000
-2016, Aug,Covington City,N/A
+2016, Aug,Covington City,
 2016, Aug,Craig County,73275.5
 2016, Aug,Culpeper County,274500
 2016, Aug,Cumberland County,138900
 2016, Aug,Danville City,94000
 2016, Aug,Dickenson County,21000
 2016, Aug,Dinwiddie County,156475
-2016, Aug,Emporia City,N/A
+2016, Aug,Emporia City,
 2016, Aug,Essex County,182000
 2016, Aug,Fairfax City,496200
 2016, Aug,Fairfax County,485000
@@ -998,7 +998,7 @@ Year,Month,County_City,Median_Sale_Value
 2016, Aug,King George County,268000
 2016, Aug,King William County,181000
 2016, Aug,Lancaster County,310000
-2016, Aug,Lee County,N/A
+2016, Aug,Lee County,
 2016, Aug,Lexington City,255000
 2016, Aug,Loudoun County,445000
 2016, Aug,Louisa County,212500
@@ -1018,7 +1018,7 @@ Year,Month,County_City,Median_Sale_Value
 2016, Aug,Norfolk City,195000
 2016, Aug,Northampton County,220000
 2016, Aug,Northumberland County,204500
-2016, Aug,Norton City,N/A
+2016, Aug,Norton City,
 2016, Aug,Nottoway County,130000
 2016, Aug,Orange County,224000
 2016, Aug,Page County,167500
@@ -1060,7 +1060,7 @@ Year,Month,County_City,Median_Sale_Value
 2016, Aug,Westmoreland County,199500
 2016, Aug,Williamsburg City,247000
 2016, Aug,Winchester City,219900
-2016, Aug,Wise County,N/A
+2016, Aug,Wise County,
 2016, Aug,Wythe County,94500
 2016, Aug,York County,296750
 2016, Sep,Accomack County,145000
@@ -1072,7 +1072,7 @@ Year,Month,County_City,Median_Sale_Value
 2016, Sep,Appomattox County,150000
 2016, Sep,Arlington County,512000
 2016, Sep,Augusta County,195000
-2016, Sep,Bath County,N/A
+2016, Sep,Bath County,
 2016, Sep,Bedford County,227000
 2016, Sep,Bland County,230400
 2016, Sep,Botetourt County,217975
@@ -1096,9 +1096,9 @@ Year,Month,County_City,Median_Sale_Value
 2016, Sep,Culpeper County,280000
 2016, Sep,Cumberland County,152500
 2016, Sep,Danville City,94000
-2016, Sep,Dickenson County,N/A
+2016, Sep,Dickenson County,
 2016, Sep,Dinwiddie County,157500
-2016, Sep,Emporia City,N/A
+2016, Sep,Emporia City,
 2016, Sep,Essex County,225000
 2016, Sep,Fairfax City,430250
 2016, Sep,Fairfax County,460000
@@ -1123,7 +1123,7 @@ Year,Month,County_City,Median_Sale_Value
 2016, Sep,Harrisonburg City,159000
 2016, Sep,Henrico County,218250
 2016, Sep,Henry County,92500
-2016, Sep,Highland County,N/A
+2016, Sep,Highland County,
 2016, Sep,Hopewell City,128250
 2016, Sep,Isle of Wight County,247405
 2016, Sep,James City County,330000
@@ -1131,7 +1131,7 @@ Year,Month,County_City,Median_Sale_Value
 2016, Sep,King George County,272900
 2016, Sep,King William County,175000
 2016, Sep,Lancaster County,350000
-2016, Sep,Lee County,N/A
+2016, Sep,Lee County,
 2016, Sep,Lexington City,170000
 2016, Sep,Loudoun County,447759
 2016, Sep,Louisa County,210700
@@ -1151,7 +1151,7 @@ Year,Month,County_City,Median_Sale_Value
 2016, Sep,Norfolk City,170500
 2016, Sep,Northampton County,210000
 2016, Sep,Northumberland County,200500
-2016, Sep,Norton City,N/A
+2016, Sep,Norton City,
 2016, Sep,Nottoway County,82500
 2016, Sep,Orange County,238000
 2016, Sep,Page County,170000
@@ -1193,7 +1193,7 @@ Year,Month,County_City,Median_Sale_Value
 2016, Sep,Westmoreland County,191650
 2016, Sep,Williamsburg City,251582
 2016, Sep,Winchester City,247000
-2016, Sep,Wise County,N/A
+2016, Sep,Wise County,
 2016, Sep,Wythe County,115300
 2016, Sep,York County,250000
 2016, Oct,Accomack County,170900
@@ -1284,7 +1284,7 @@ Year,Month,County_City,Median_Sale_Value
 2016, Oct,Norfolk City,179500
 2016, Oct,Northampton County,211000
 2016, Oct,Northumberland County,292500
-2016, Oct,Norton City,N/A
+2016, Oct,Norton City,
 2016, Oct,Nottoway County,167000
 2016, Oct,Orange County,222500
 2016, Oct,Page County,135000
@@ -1362,9 +1362,9 @@ Year,Month,County_City,Median_Sale_Value
 2016, Nov,Culpeper County,255900
 2016, Nov,Cumberland County,151475
 2016, Nov,Danville City,69900
-2016, Nov,Dickenson County,N/A
+2016, Nov,Dickenson County,
 2016, Nov,Dinwiddie County,140700
-2016, Nov,Emporia City,N/A
+2016, Nov,Emporia City,
 2016, Nov,Essex County,107500
 2016, Nov,Fairfax City,440000
 2016, Nov,Fairfax County,459000
@@ -1397,7 +1397,7 @@ Year,Month,County_City,Median_Sale_Value
 2016, Nov,King George County,287900
 2016, Nov,King William County,192500
 2016, Nov,Lancaster County,171500
-2016, Nov,Lee County,N/A
+2016, Nov,Lee County,
 2016, Nov,Lexington City,269000
 2016, Nov,Loudoun County,435500
 2016, Nov,Louisa County,228500
@@ -1417,7 +1417,7 @@ Year,Month,County_City,Median_Sale_Value
 2016, Nov,Norfolk City,179750
 2016, Nov,Northampton County,248250
 2016, Nov,Northumberland County,255000
-2016, Nov,Norton City,N/A
+2016, Nov,Norton City,
 2016, Nov,Nottoway County,109000
 2016, Nov,Orange County,222500
 2016, Nov,Page County,136500
@@ -1441,7 +1441,7 @@ Year,Month,County_City,Median_Sale_Value
 2016, Nov,Rockingham County,212770
 2016, Nov,Russell County,76000
 2016, Nov,Salem City,128000
-2016, Nov,Scott County,N/A
+2016, Nov,Scott County,
 2016, Nov,Shenandoah County,155000
 2016, Nov,Smyth County,96950
 2016, Nov,Southampton County,117000
@@ -1459,7 +1459,7 @@ Year,Month,County_City,Median_Sale_Value
 2016, Nov,Westmoreland County,172500
 2016, Nov,Williamsburg City,335000
 2016, Nov,Winchester City,261500
-2016, Nov,Wise County,N/A
+2016, Nov,Wise County,
 2016, Nov,Wythe County,130450
 2016, Nov,York County,281411
 2016, Dec,Accomack County,140100
@@ -1471,7 +1471,7 @@ Year,Month,County_City,Median_Sale_Value
 2016, Dec,Appomattox County,117500
 2016, Dec,Arlington County,560000
 2016, Dec,Augusta County,199000
-2016, Dec,Bath County,N/A
+2016, Dec,Bath County,
 2016, Dec,Bedford County,230000
 2016, Dec,Bland County,87000
 2016, Dec,Botetourt County,196000
@@ -1490,12 +1490,12 @@ Year,Month,County_City,Median_Sale_Value
 2016, Dec,Chesterfield County,239950
 2016, Dec,Clarke County,410000
 2016, Dec,Colonial Heights City,142700
-2016, Dec,Covington City,N/A
+2016, Dec,Covington City,
 2016, Dec,Craig County,189000
 2016, Dec,Culpeper County,269900
 2016, Dec,Cumberland County,130000
 2016, Dec,Danville City,94250
-2016, Dec,Dickenson County,N/A
+2016, Dec,Dickenson County,
 2016, Dec,Dinwiddie County,167000
 2016, Dec,Emporia City,62500
 2016, Dec,Essex County,141860
@@ -1530,7 +1530,7 @@ Year,Month,County_City,Median_Sale_Value
 2016, Dec,King George County,269900
 2016, Dec,King William County,176625
 2016, Dec,Lancaster County,142900
-2016, Dec,Lee County,N/A
+2016, Dec,Lee County,
 2016, Dec,Lexington City,148875
 2016, Dec,Loudoun County,477000
 2016, Dec,Louisa County,220000
@@ -1550,7 +1550,7 @@ Year,Month,County_City,Median_Sale_Value
 2016, Dec,Norfolk City,189450
 2016, Dec,Northampton County,230000
 2016, Dec,Northumberland County,290000
-2016, Dec,Norton City,N/A
+2016, Dec,Norton City,
 2016, Dec,Nottoway County,155000
 2016, Dec,Orange County,222355
 2016, Dec,Page County,154000
@@ -1574,7 +1574,7 @@ Year,Month,County_City,Median_Sale_Value
 2016, Dec,Rockingham County,209250
 2016, Dec,Russell County,120000
 2016, Dec,Salem City,169225
-2016, Dec,Scott County,N/A
+2016, Dec,Scott County,
 2016, Dec,Shenandoah County,155000
 2016, Dec,Smyth County,77450
 2016, Dec,Southampton County,155000
@@ -1624,13 +1624,13 @@ Year,Month,County_City,Median_Sale_Value
 2017, Jan,Clarke County,320000
 2017, Jan,Colonial Heights City,158000
 2017, Jan,Covington City,27000
-2017, Jan,Craig County,N/A
+2017, Jan,Craig County,
 2017, Jan,Culpeper County,239900
 2017, Jan,Cumberland County,180450
 2017, Jan,Danville City,85000
 2017, Jan,Dickenson County,41000
 2017, Jan,Dinwiddie County,130500
-2017, Jan,Emporia City,N/A
+2017, Jan,Emporia City,
 2017, Jan,Essex County,271750
 2017, Jan,Fairfax City,483749.5
 2017, Jan,Fairfax County,455000
@@ -1663,7 +1663,7 @@ Year,Month,County_City,Median_Sale_Value
 2017, Jan,King George County,248500
 2017, Jan,King William County,184400
 2017, Jan,Lancaster County,402205
-2017, Jan,Lee County,N/A
+2017, Jan,Lee County,
 2017, Jan,Lexington City,185000
 2017, Jan,Loudoun County,457500
 2017, Jan,Louisa County,155427
@@ -1683,7 +1683,7 @@ Year,Month,County_City,Median_Sale_Value
 2017, Jan,Norfolk City,192450
 2017, Jan,Northampton County,365350
 2017, Jan,Northumberland County,379000
-2017, Jan,Norton City,N/A
+2017, Jan,Norton City,
 2017, Jan,Nottoway County,120000
 2017, Jan,Orange County,236500
 2017, Jan,Page County,95000
@@ -1737,9 +1737,9 @@ Year,Month,County_City,Median_Sale_Value
 2017, Feb,Appomattox County,140450
 2017, Feb,Arlington County,525000
 2017, Feb,Augusta County,189000
-2017, Feb,Bath County,N/A
+2017, Feb,Bath County,
 2017, Feb,Bedford County,185685.75
-2017, Feb,Bland County,N/A
+2017, Feb,Bland County,
 2017, Feb,Botetourt County,233000
 2017, Feb,Bristol City,27250
 2017, Feb,Brunswick County,100000
@@ -1763,7 +1763,7 @@ Year,Month,County_City,Median_Sale_Value
 2017, Feb,Danville City,53150
 2017, Feb,Dickenson County,80000
 2017, Feb,Dinwiddie County,155000
-2017, Feb,Emporia City,N/A
+2017, Feb,Emporia City,
 2017, Feb,Essex County,149000
 2017, Feb,Fairfax City,480000
 2017, Feb,Fairfax County,456000
@@ -1781,7 +1781,7 @@ Year,Month,County_City,Median_Sale_Value
 2017, Feb,Goochland County,526000
 2017, Feb,Grayson County,150000
 2017, Feb,Greene County,259475
-2017, Feb,Greensville County,N/A
+2017, Feb,Greensville County,
 2017, Feb,Halifax County,127500
 2017, Feb,Hampton City,162500
 2017, Feb,Hanover County,263470
@@ -1796,11 +1796,11 @@ Year,Month,County_City,Median_Sale_Value
 2017, Feb,King George County,309999.5
 2017, Feb,King William County,201500
 2017, Feb,Lancaster County,260000
-2017, Feb,Lee County,N/A
+2017, Feb,Lee County,
 2017, Feb,Lexington City,297500
 2017, Feb,Loudoun County,429000
 2017, Feb,Louisa County,195000
-2017, Feb,Lunenburg County,N/A
+2017, Feb,Lunenburg County,
 2017, Feb,Lynchburg City,119450
 2017, Feb,Madison County,178250
 2017, Feb,Manassas City,290000
@@ -1816,7 +1816,7 @@ Year,Month,County_City,Median_Sale_Value
 2017, Feb,Norfolk City,188900
 2017, Feb,Northampton County,350000
 2017, Feb,Northumberland County,198739.5
-2017, Feb,Norton City,N/A
+2017, Feb,Norton City,
 2017, Feb,Nottoway County,27000
 2017, Feb,Orange County,231189
 2017, Feb,Page County,148000
@@ -1858,7 +1858,7 @@ Year,Month,County_City,Median_Sale_Value
 2017, Feb,Westmoreland County,147500
 2017, Feb,Williamsburg City,292500
 2017, Feb,Winchester City,199000
-2017, Feb,Wise County,N/A
+2017, Feb,Wise County,
 2017, Feb,Wythe County,122000
 2017, Feb,York County,260000
 2017, Mar,Accomack County,130000
@@ -1876,13 +1876,13 @@ Year,Month,County_City,Median_Sale_Value
 2017, Mar,Botetourt County,210125
 2017, Mar,Bristol City,59000
 2017, Mar,Brunswick County,124250
-2017, Mar,Buchanan County,N/A
+2017, Mar,Buchanan County,
 2017, Mar,Buckingham County,87700
 2017, Mar,Buena Vista City,106000
 2017, Mar,Campbell County,159900
 2017, Mar,Caroline County,174900
 2017, Mar,Carroll County,85200
-2017, Mar,Charles City County,N/A
+2017, Mar,Charles City County,
 2017, Mar,Charlotte County,62475
 2017, Mar,Charlottesville City,275000
 2017, Mar,Chesapeake City,250000
@@ -1894,9 +1894,9 @@ Year,Month,County_City,Median_Sale_Value
 2017, Mar,Culpeper County,261450
 2017, Mar,Cumberland County,159000
 2017, Mar,Danville City,51500
-2017, Mar,Dickenson County,N/A
+2017, Mar,Dickenson County,
 2017, Mar,Dinwiddie County,156875
-2017, Mar,Emporia City,N/A
+2017, Mar,Emporia City,
 2017, Mar,Essex County,148000
 2017, Mar,Fairfax City,500000
 2017, Mar,Fairfax County,495000
@@ -1914,7 +1914,7 @@ Year,Month,County_City,Median_Sale_Value
 2017, Mar,Goochland County,420000
 2017, Mar,Grayson County,165000
 2017, Mar,Greene County,245000
-2017, Mar,Greensville County,N/A
+2017, Mar,Greensville County,
 2017, Mar,Halifax County,79950
 2017, Mar,Hampton City,159900
 2017, Mar,Hanover County,283627.5
@@ -1929,7 +1929,7 @@ Year,Month,County_City,Median_Sale_Value
 2017, Mar,King George County,287450
 2017, Mar,King William County,176000
 2017, Mar,Lancaster County,450750
-2017, Mar,Lee County,N/A
+2017, Mar,Lee County,
 2017, Mar,Lexington City,169000
 2017, Mar,Loudoun County,441000
 2017, Mar,Louisa County,214950
@@ -1949,7 +1949,7 @@ Year,Month,County_City,Median_Sale_Value
 2017, Mar,Norfolk City,184000
 2017, Mar,Northampton County,170000
 2017, Mar,Northumberland County,161000
-2017, Mar,Norton City,N/A
+2017, Mar,Norton City,
 2017, Mar,Nottoway County,83250
 2017, Mar,Orange County,238117.5
 2017, Mar,Page County,158500
@@ -1973,7 +1973,7 @@ Year,Month,County_City,Median_Sale_Value
 2017, Mar,Rockingham County,224500
 2017, Mar,Russell County,102800
 2017, Mar,Salem City,145000
-2017, Mar,Scott County,N/A
+2017, Mar,Scott County,
 2017, Mar,Shenandoah County,180750
 2017, Mar,Smyth County,75500
 2017, Mar,Southampton County,159900
@@ -1991,7 +1991,7 @@ Year,Month,County_City,Median_Sale_Value
 2017, Mar,Westmoreland County,177000
 2017, Mar,Williamsburg City,242500
 2017, Mar,Winchester City,197000
-2017, Mar,Wise County,N/A
+2017, Mar,Wise County,
 2017, Mar,Wythe County,149900
 2017, Mar,York County,290000
 2017, Apr,Accomack County,164000
@@ -2027,9 +2027,9 @@ Year,Month,County_City,Median_Sale_Value
 2017, Apr,Culpeper County,279900
 2017, Apr,Cumberland County,275000
 2017, Apr,Danville City,80878
-2017, Apr,Dickenson County,N/A
+2017, Apr,Dickenson County,
 2017, Apr,Dinwiddie County,129500
-2017, Apr,Emporia City,N/A
+2017, Apr,Emporia City,
 2017, Apr,Essex County,155500
 2017, Apr,Fairfax City,500500
 2017, Apr,Fairfax County,505000
@@ -2047,14 +2047,14 @@ Year,Month,County_City,Median_Sale_Value
 2017, Apr,Goochland County,385000
 2017, Apr,Grayson County,92000
 2017, Apr,Greene County,251500
-2017, Apr,Greensville County,N/A
+2017, Apr,Greensville County,
 2017, Apr,Halifax County,73950
 2017, Apr,Hampton City,155000
 2017, Apr,Hanover County,280082.5
 2017, Apr,Harrisonburg City,159675
 2017, Apr,Henrico County,232000
 2017, Apr,Henry County,83700
-2017, Apr,Highland County,N/A
+2017, Apr,Highland County,
 2017, Apr,Hopewell City,84000
 2017, Apr,Isle of Wight County,282500
 2017, Apr,James City County,334000
@@ -2062,7 +2062,7 @@ Year,Month,County_City,Median_Sale_Value
 2017, Apr,King George County,319000
 2017, Apr,King William County,195000
 2017, Apr,Lancaster County,359000
-2017, Apr,Lee County,N/A
+2017, Apr,Lee County,
 2017, Apr,Lexington City,170000
 2017, Apr,Loudoun County,472000
 2017, Apr,Louisa County,210000
@@ -2082,7 +2082,7 @@ Year,Month,County_City,Median_Sale_Value
 2017, Apr,Norfolk City,199900
 2017, Apr,Northampton County,258000
 2017, Apr,Northumberland County,218500
-2017, Apr,Norton City,N/A
+2017, Apr,Norton City,
 2017, Apr,Nottoway County,75000
 2017, Apr,Orange County,230000
 2017, Apr,Page County,137500
@@ -2195,7 +2195,7 @@ Year,Month,County_City,Median_Sale_Value
 2017, May,King George County,282000
 2017, May,King William County,185000
 2017, May,Lancaster County,179000
-2017, May,Lee County,N/A
+2017, May,Lee County,
 2017, May,Lexington City,195000
 2017, May,Loudoun County,485000
 2017, May,Louisa County,215000
@@ -2215,7 +2215,7 @@ Year,Month,County_City,Median_Sale_Value
 2017, May,Norfolk City,200000
 2017, May,Northampton County,190000
 2017, May,Northumberland County,382500
-2017, May,Norton City,N/A
+2017, May,Norton City,
 2017, May,Nottoway County,114750
 2017, May,Orange County,235720
 2017, May,Page County,164250
@@ -2257,7 +2257,7 @@ Year,Month,County_City,Median_Sale_Value
 2017, May,Westmoreland County,174999
 2017, May,Williamsburg City,229000
 2017, May,Winchester City,290000
-2017, May,Wise County,N/A
+2017, May,Wise County,
 2017, May,Wythe County,106900
 2017, May,York County,265000
 2017, Jun,Accomack County,170500
@@ -2295,7 +2295,7 @@ Year,Month,County_City,Median_Sale_Value
 2017, Jun,Danville City,93000
 2017, Jun,Dickenson County,37500
 2017, Jun,Dinwiddie County,164000
-2017, Jun,Emporia City,N/A
+2017, Jun,Emporia City,
 2017, Jun,Essex County,195000
 2017, Jun,Fairfax City,501000
 2017, Jun,Fairfax County,525000
@@ -2328,7 +2328,7 @@ Year,Month,County_City,Median_Sale_Value
 2017, Jun,King George County,307500
 2017, Jun,King William County,196000
 2017, Jun,Lancaster County,219000
-2017, Jun,Lee County,N/A
+2017, Jun,Lee County,
 2017, Jun,Lexington City,160000
 2017, Jun,Loudoun County,478860.5
 2017, Jun,Louisa County,248000
@@ -2348,7 +2348,7 @@ Year,Month,County_City,Median_Sale_Value
 2017, Jun,Norfolk City,207500
 2017, Jun,Northampton County,224000
 2017, Jun,Northumberland County,225000
-2017, Jun,Norton City,N/A
+2017, Jun,Norton City,
 2017, Jun,Nottoway County,71475
 2017, Jun,Orange County,239754.5
 2017, Jun,Page County,145000
@@ -2407,7 +2407,7 @@ Year,Month,County_City,Median_Sale_Value
 2017, Jul,Bland County,169000
 2017, Jul,Botetourt County,274975
 2017, Jul,Bristol City,108000
-2017, Jul,Brunswick County,N/A
+2017, Jul,Brunswick County,
 2017, Jul,Buchanan County,51550
 2017, Jul,Buckingham County,146000
 2017, Jul,Buena Vista City,95700
@@ -2428,7 +2428,7 @@ Year,Month,County_City,Median_Sale_Value
 2017, Jul,Danville City,84800
 2017, Jul,Dickenson County,1215000
 2017, Jul,Dinwiddie County,180000
-2017, Jul,Emporia City,N/A
+2017, Jul,Emporia City,
 2017, Jul,Essex County,200000
 2017, Jul,Fairfax City,530000
 2017, Jul,Fairfax County,500000
@@ -2461,7 +2461,7 @@ Year,Month,County_City,Median_Sale_Value
 2017, Jul,King George County,289900
 2017, Jul,King William County,215000
 2017, Jul,Lancaster County,275000
-2017, Jul,Lee County,N/A
+2017, Jul,Lee County,
 2017, Jul,Lexington City,250000
 2017, Jul,Loudoun County,465000
 2017, Jul,Louisa County,214750
@@ -2481,7 +2481,7 @@ Year,Month,County_City,Median_Sale_Value
 2017, Jul,Norfolk City,203000
 2017, Jul,Northampton County,171000
 2017, Jul,Northumberland County,200000
-2017, Jul,Norton City,N/A
+2017, Jul,Norton City,
 2017, Jul,Nottoway County,116000
 2017, Jul,Orange County,220000
 2017, Jul,Page County,168450
@@ -2523,7 +2523,7 @@ Year,Month,County_City,Median_Sale_Value
 2017, Jul,Westmoreland County,179900
 2017, Jul,Williamsburg City,332927.5
 2017, Jul,Winchester City,254125
-2017, Jul,Wise County,N/A
+2017, Jul,Wise County,
 2017, Jul,Wythe County,106550
 2017, Jul,York County,321500
 2017, Aug,Accomack County,170000
@@ -2561,7 +2561,7 @@ Year,Month,County_City,Median_Sale_Value
 2017, Aug,Danville City,91000
 2017, Aug,Dickenson County,25000
 2017, Aug,Dinwiddie County,159975
-2017, Aug,Emporia City,N/A
+2017, Aug,Emporia City,
 2017, Aug,Essex County,169950
 2017, Aug,Fairfax City,531495.5
 2017, Aug,Fairfax County,505000
@@ -2594,7 +2594,7 @@ Year,Month,County_City,Median_Sale_Value
 2017, Aug,King George County,284900
 2017, Aug,King William County,198275
 2017, Aug,Lancaster County,334500
-2017, Aug,Lee County,N/A
+2017, Aug,Lee County,
 2017, Aug,Lexington City,216500
 2017, Aug,Loudoun County,483500
 2017, Aug,Louisa County,213000
@@ -2614,7 +2614,7 @@ Year,Month,County_City,Median_Sale_Value
 2017, Aug,Norfolk City,192250
 2017, Aug,Northampton County,303950
 2017, Aug,Northumberland County,249900
-2017, Aug,Norton City,N/A
+2017, Aug,Norton City,
 2017, Aug,Nottoway County,174150
 2017, Aug,Orange County,238370
 2017, Aug,Page County,145000
@@ -2638,7 +2638,7 @@ Year,Month,County_City,Median_Sale_Value
 2017, Aug,Rockingham County,220000
 2017, Aug,Russell County,152500
 2017, Aug,Salem City,158725
-2017, Aug,Scott County,N/A
+2017, Aug,Scott County,
 2017, Aug,Shenandoah County,182450
 2017, Aug,Smyth County,73000
 2017, Aug,Southampton County,148541
@@ -2656,7 +2656,7 @@ Year,Month,County_City,Median_Sale_Value
 2017, Aug,Westmoreland County,213097
 2017, Aug,Williamsburg City,192000
 2017, Aug,Winchester City,225000
-2017, Aug,Wise County,N/A
+2017, Aug,Wise County,
 2017, Aug,Wythe County,122000
 2017, Aug,York County,306445
 2017, Sep,Accomack County,160000
@@ -2673,7 +2673,7 @@ Year,Month,County_City,Median_Sale_Value
 2017, Sep,Bland County,85000
 2017, Sep,Botetourt County,235975
 2017, Sep,Bristol City,204250
-2017, Sep,Brunswick County,N/A
+2017, Sep,Brunswick County,
 2017, Sep,Buchanan County,72000
 2017, Sep,Buckingham County,143500
 2017, Sep,Buena Vista City,66200
@@ -2694,7 +2694,7 @@ Year,Month,County_City,Median_Sale_Value
 2017, Sep,Danville City,82500
 2017, Sep,Dickenson County,67500
 2017, Sep,Dinwiddie County,170000
-2017, Sep,Emporia City,N/A
+2017, Sep,Emporia City,
 2017, Sep,Essex County,180000
 2017, Sep,Fairfax City,553950
 2017, Sep,Fairfax County,460000
@@ -2712,7 +2712,7 @@ Year,Month,County_City,Median_Sale_Value
 2017, Sep,Goochland County,364000
 2017, Sep,Grayson County,91250
 2017, Sep,Greene County,241500
-2017, Sep,Greensville County,N/A
+2017, Sep,Greensville County,
 2017, Sep,Halifax County,125000
 2017, Sep,Hampton City,171412.19
 2017, Sep,Hanover County,275000
@@ -2727,7 +2727,7 @@ Year,Month,County_City,Median_Sale_Value
 2017, Sep,King George County,259000
 2017, Sep,King William County,194950
 2017, Sep,Lancaster County,172500
-2017, Sep,Lee County,N/A
+2017, Sep,Lee County,
 2017, Sep,Lexington City,120000
 2017, Sep,Loudoun County,465000
 2017, Sep,Louisa County,226500
@@ -2747,7 +2747,7 @@ Year,Month,County_City,Median_Sale_Value
 2017, Sep,Norfolk City,189000
 2017, Sep,Northampton County,222500
 2017, Sep,Northumberland County,255000
-2017, Sep,Norton City,N/A
+2017, Sep,Norton City,
 2017, Sep,Nottoway County,150000
 2017, Sep,Orange County,245700
 2017, Sep,Page County,180000
@@ -2860,7 +2860,7 @@ Year,Month,County_City,Median_Sale_Value
 2017, Oct,King George County,209000
 2017, Oct,King William County,211000
 2017, Oct,Lancaster County,265000
-2017, Oct,Lee County,N/A
+2017, Oct,Lee County,
 2017, Oct,Lexington City,215000
 2017, Oct,Loudoun County,480713
 2017, Oct,Louisa County,235000
@@ -2880,7 +2880,7 @@ Year,Month,County_City,Median_Sale_Value
 2017, Oct,Norfolk City,198750
 2017, Oct,Northampton County,245500
 2017, Oct,Northumberland County,223003
-2017, Oct,Norton City,N/A
+2017, Oct,Norton City,
 2017, Oct,Nottoway County,117450
 2017, Oct,Orange County,235000
 2017, Oct,Page County,135500
@@ -2904,7 +2904,7 @@ Year,Month,County_City,Median_Sale_Value
 2017, Oct,Rockingham County,239000
 2017, Oct,Russell County,115000
 2017, Oct,Salem City,192000
-2017, Oct,Scott County,N/A
+2017, Oct,Scott County,
 2017, Oct,Shenandoah County,176000
 2017, Oct,Smyth County,86900
 2017, Oct,Southampton County,185000
@@ -2960,7 +2960,7 @@ Year,Month,County_City,Median_Sale_Value
 2017, Nov,Danville City,80000
 2017, Nov,Dickenson County,46500
 2017, Nov,Dinwiddie County,161500
-2017, Nov,Emporia City,N/A
+2017, Nov,Emporia City,
 2017, Nov,Essex County,200000
 2017, Nov,Fairfax City,588561
 2017, Nov,Fairfax County,485000
@@ -2993,7 +2993,7 @@ Year,Month,County_City,Median_Sale_Value
 2017, Nov,King George County,329500
 2017, Nov,King William County,197475
 2017, Nov,Lancaster County,225100
-2017, Nov,Lee County,N/A
+2017, Nov,Lee County,
 2017, Nov,Lexington City,227500
 2017, Nov,Loudoun County,465000
 2017, Nov,Louisa County,249900
@@ -3013,7 +3013,7 @@ Year,Month,County_City,Median_Sale_Value
 2017, Nov,Norfolk City,200000
 2017, Nov,Northampton County,195250
 2017, Nov,Northumberland County,290000
-2017, Nov,Norton City,N/A
+2017, Nov,Norton City,
 2017, Nov,Nottoway County,67000
 2017, Nov,Orange County,223750
 2017, Nov,Page County,167450
@@ -3037,7 +3037,7 @@ Year,Month,County_City,Median_Sale_Value
 2017, Nov,Rockingham County,209750
 2017, Nov,Russell County,70250
 2017, Nov,Salem City,135000
-2017, Nov,Scott County,N/A
+2017, Nov,Scott County,
 2017, Nov,Shenandoah County,181800
 2017, Nov,Smyth County,55000
 2017, Nov,Southampton County,131500
@@ -3091,9 +3091,9 @@ Year,Month,County_City,Median_Sale_Value
 2017, Dec,Culpeper County,281450
 2017, Dec,Cumberland County,158250
 2017, Dec,Danville City,85000
-2017, Dec,Dickenson County,N/A
+2017, Dec,Dickenson County,
 2017, Dec,Dinwiddie County,165750
-2017, Dec,Emporia City,N/A
+2017, Dec,Emporia City,
 2017, Dec,Essex County,145000
 2017, Dec,Fairfax City,542000
 2017, Dec,Fairfax County,495000
@@ -3111,14 +3111,14 @@ Year,Month,County_City,Median_Sale_Value
 2017, Dec,Goochland County,437500
 2017, Dec,Grayson County,101400
 2017, Dec,Greene County,219000
-2017, Dec,Greensville County,N/A
+2017, Dec,Greensville County,
 2017, Dec,Halifax County,125000
 2017, Dec,Hampton City,165000
 2017, Dec,Hanover County,287950
 2017, Dec,Harrisonburg City,217850
 2017, Dec,Henrico County,247000
 2017, Dec,Henry County,85000
-2017, Dec,Highland County,N/A
+2017, Dec,Highland County,
 2017, Dec,Hopewell City,90000
 2017, Dec,Isle of Wight County,309500
 2017, Dec,James City County,303490
@@ -3126,7 +3126,7 @@ Year,Month,County_City,Median_Sale_Value
 2017, Dec,King George County,277000
 2017, Dec,King William County,231000
 2017, Dec,Lancaster County,357500
-2017, Dec,Lee County,N/A
+2017, Dec,Lee County,
 2017, Dec,Lexington City,196500
 2017, Dec,Loudoun County,479000
 2017, Dec,Louisa County,224000
@@ -3146,7 +3146,7 @@ Year,Month,County_City,Median_Sale_Value
 2017, Dec,Norfolk City,199950
 2017, Dec,Northampton County,169000
 2017, Dec,Northumberland County,218000
-2017, Dec,Norton City,N/A
+2017, Dec,Norton City,
 2017, Dec,Nottoway County,180000
 2017, Dec,Orange County,236250
 2017, Dec,Page County,171200
@@ -3224,9 +3224,9 @@ Year,Month,County_City,Median_Sale_Value
 2018, Jan,Culpeper County,280000
 2018, Jan,Cumberland County,152000
 2018, Jan,Danville City,64500
-2018, Jan,Dickenson County,N/A
+2018, Jan,Dickenson County,
 2018, Jan,Dinwiddie County,139750
-2018, Jan,Emporia City,N/A
+2018, Jan,Emporia City,
 2018, Jan,Essex County,121475
 2018, Jan,Fairfax City,500000
 2018, Jan,Fairfax County,470000
@@ -3259,7 +3259,7 @@ Year,Month,County_City,Median_Sale_Value
 2018, Jan,King George County,269950
 2018, Jan,King William County,229946.5
 2018, Jan,Lancaster County,178250
-2018, Jan,Lee County,N/A
+2018, Jan,Lee County,
 2018, Jan,Lexington City,198500
 2018, Jan,Loudoun County,450000
 2018, Jan,Louisa County,212500
@@ -3279,7 +3279,7 @@ Year,Month,County_City,Median_Sale_Value
 2018, Jan,Norfolk City,181000
 2018, Jan,Northampton County,294000
 2018, Jan,Northumberland County,252500
-2018, Jan,Norton City,N/A
+2018, Jan,Norton City,
 2018, Jan,Nottoway County,204800
 2018, Jan,Orange County,199900
 2018, Jan,Page County,107000
@@ -3339,7 +3339,7 @@ Year,Month,County_City,Median_Sale_Value
 2018, Feb,Botetourt County,180000
 2018, Feb,Bristol City,122750
 2018, Feb,Brunswick County,345000
-2018, Feb,Buchanan County,N/A
+2018, Feb,Buchanan County,
 2018, Feb,Buckingham County,169250
 2018, Feb,Buena Vista City,97500
 2018, Feb,Campbell County,164000
@@ -3357,9 +3357,9 @@ Year,Month,County_City,Median_Sale_Value
 2018, Feb,Culpeper County,292500
 2018, Feb,Cumberland County,117500
 2018, Feb,Danville City,104800
-2018, Feb,Dickenson County,N/A
+2018, Feb,Dickenson County,
 2018, Feb,Dinwiddie County,173950
-2018, Feb,Emporia City,N/A
+2018, Feb,Emporia City,
 2018, Feb,Essex County,178500
 2018, Feb,Fairfax City,474503.5
 2018, Feb,Fairfax County,489975
@@ -3377,7 +3377,7 @@ Year,Month,County_City,Median_Sale_Value
 2018, Feb,Goochland County,340500
 2018, Feb,Grayson County,78250
 2018, Feb,Greene County,258900
-2018, Feb,Greensville County,N/A
+2018, Feb,Greensville County,
 2018, Feb,Halifax County,127500
 2018, Feb,Hampton City,165500
 2018, Feb,Hanover County,283711.5
@@ -3392,7 +3392,7 @@ Year,Month,County_City,Median_Sale_Value
 2018, Feb,King George County,306450
 2018, Feb,King William County,201000
 2018, Feb,Lancaster County,159000
-2018, Feb,Lee County,N/A
+2018, Feb,Lee County,
 2018, Feb,Lexington City,216000
 2018, Feb,Loudoun County,450000
 2018, Feb,Louisa County,187270
@@ -3412,7 +3412,7 @@ Year,Month,County_City,Median_Sale_Value
 2018, Feb,Norfolk City,189500
 2018, Feb,Northampton County,143500
 2018, Feb,Northumberland County,286250
-2018, Feb,Norton City,N/A
+2018, Feb,Norton City,
 2018, Feb,Nottoway County,115000
 2018, Feb,Orange County,196000
 2018, Feb,Page County,220000
@@ -3436,7 +3436,7 @@ Year,Month,County_City,Median_Sale_Value
 2018, Feb,Rockingham County,209950
 2018, Feb,Russell County,134000
 2018, Feb,Salem City,149970
-2018, Feb,Scott County,N/A
+2018, Feb,Scott County,
 2018, Feb,Shenandoah County,179850
 2018, Feb,Smyth County,71500
 2018, Feb,Southampton County,192000
@@ -3490,7 +3490,7 @@ Year,Month,County_City,Median_Sale_Value
 2018, Mar,Culpeper County,303000
 2018, Mar,Cumberland County,158500
 2018, Mar,Danville City,96500
-2018, Mar,Dickenson County,N/A
+2018, Mar,Dickenson County,
 2018, Mar,Dinwiddie County,157750
 2018, Mar,Emporia City,76000
 2018, Mar,Essex County,169000
@@ -3510,7 +3510,7 @@ Year,Month,County_City,Median_Sale_Value
 2018, Mar,Goochland County,300000
 2018, Mar,Grayson County,124000
 2018, Mar,Greene County,225000
-2018, Mar,Greensville County,N/A
+2018, Mar,Greensville County,
 2018, Mar,Halifax County,84670
 2018, Mar,Hampton City,155000
 2018, Mar,Hanover County,305000
@@ -3545,7 +3545,7 @@ Year,Month,County_City,Median_Sale_Value
 2018, Mar,Norfolk City,200000
 2018, Mar,Northampton County,190000
 2018, Mar,Northumberland County,220250
-2018, Mar,Norton City,N/A
+2018, Mar,Norton City,
 2018, Mar,Nottoway County,226876
 2018, Mar,Orange County,249450
 2018, Mar,Page County,169750
@@ -3569,7 +3569,7 @@ Year,Month,County_City,Median_Sale_Value
 2018, Mar,Rockingham County,236450
 2018, Mar,Russell County,92500
 2018, Mar,Salem City,144600
-2018, Mar,Scott County,N/A
+2018, Mar,Scott County,
 2018, Mar,Shenandoah County,185000
 2018, Mar,Smyth County,81000
 2018, Mar,Southampton County,167000
@@ -3623,9 +3623,9 @@ Year,Month,County_City,Median_Sale_Value
 2018, Apr,Culpeper County,325000
 2018, Apr,Cumberland County,171500
 2018, Apr,Danville City,90250
-2018, Apr,Dickenson County,N/A
+2018, Apr,Dickenson County,
 2018, Apr,Dinwiddie County,188499
-2018, Apr,Emporia City,N/A
+2018, Apr,Emporia City,
 2018, Apr,Essex County,167500
 2018, Apr,Fairfax City,494000
 2018, Apr,Fairfax County,520000
@@ -3658,7 +3658,7 @@ Year,Month,County_City,Median_Sale_Value
 2018, Apr,King George County,327500
 2018, Apr,King William County,226250
 2018, Apr,Lancaster County,235000
-2018, Apr,Lee County,N/A
+2018, Apr,Lee County,
 2018, Apr,Lexington City,172000
 2018, Apr,Loudoun County,475000
 2018, Apr,Louisa County,238450
@@ -3678,7 +3678,7 @@ Year,Month,County_City,Median_Sale_Value
 2018, Apr,Norfolk City,213000
 2018, Apr,Northampton County,237500
 2018, Apr,Northumberland County,365000
-2018, Apr,Norton City,N/A
+2018, Apr,Norton City,
 2018, Apr,Nottoway County,94500
 2018, Apr,Orange County,260900
 2018, Apr,Page County,135000
@@ -3702,7 +3702,7 @@ Year,Month,County_City,Median_Sale_Value
 2018, Apr,Rockingham County,201000
 2018, Apr,Russell County,100200
 2018, Apr,Salem City,167475
-2018, Apr,Scott County,N/A
+2018, Apr,Scott County,
 2018, Apr,Shenandoah County,178000
 2018, Apr,Smyth County,143500
 2018, Apr,Southampton County,164950
@@ -3756,7 +3756,7 @@ Year,Month,County_City,Median_Sale_Value
 2018, May,Culpeper County,294000
 2018, May,Cumberland County,105575
 2018, May,Danville City,84900
-2018, May,Dickenson County,N/A
+2018, May,Dickenson County,
 2018, May,Dinwiddie County,175750
 2018, May,Emporia City,16000
 2018, May,Essex County,139100
@@ -3791,7 +3791,7 @@ Year,Month,County_City,Median_Sale_Value
 2018, May,King George County,299000
 2018, May,King William County,182475
 2018, May,Lancaster County,270000
-2018, May,Lee County,N/A
+2018, May,Lee County,
 2018, May,Lexington City,192801
 2018, May,Loudoun County,479900
 2018, May,Louisa County,222500
@@ -3835,7 +3835,7 @@ Year,Month,County_City,Median_Sale_Value
 2018, May,Rockingham County,222500
 2018, May,Russell County,133250
 2018, May,Salem City,163500
-2018, May,Scott County,N/A
+2018, May,Scott County,
 2018, May,Shenandoah County,196500
 2018, May,Smyth County,80000
 2018, May,Southampton County,137500
@@ -3889,9 +3889,9 @@ Year,Month,County_City,Median_Sale_Value
 2018, Jun,Culpeper County,296450
 2018, Jun,Cumberland County,157500
 2018, Jun,Danville City,109950
-2018, Jun,Dickenson County,N/A
+2018, Jun,Dickenson County,
 2018, Jun,Dinwiddie County,170000
-2018, Jun,Emporia City,N/A
+2018, Jun,Emporia City,
 2018, Jun,Essex County,169000
 2018, Jun,Fairfax City,625000
 2018, Jun,Fairfax County,545000
@@ -3924,7 +3924,7 @@ Year,Month,County_City,Median_Sale_Value
 2018, Jun,King George County,286500
 2018, Jun,King William County,217900
 2018, Jun,Lancaster County,335000
-2018, Jun,Lee County,N/A
+2018, Jun,Lee County,
 2018, Jun,Lexington City,286000
 2018, Jun,Loudoun County,500000
 2018, Jun,Louisa County,239000
@@ -3944,7 +3944,7 @@ Year,Month,County_City,Median_Sale_Value
 2018, Jun,Norfolk City,213500
 2018, Jun,Northampton County,126000
 2018, Jun,Northumberland County,310000
-2018, Jun,Norton City,N/A
+2018, Jun,Norton City,
 2018, Jun,Nottoway County,110475
 2018, Jun,Orange County,229950
 2018, Jun,Page County,135000
@@ -3986,7 +3986,7 @@ Year,Month,County_City,Median_Sale_Value
 2018, Jun,Westmoreland County,190000
 2018, Jun,Williamsburg City,225000
 2018, Jun,Winchester City,261450
-2018, Jun,Wise County,N/A
+2018, Jun,Wise County,
 2018, Jun,Wythe County,152500
 2018, Jun,York County,345000
 2018, Jul,Accomack County,175450
@@ -4024,7 +4024,7 @@ Year,Month,County_City,Median_Sale_Value
 2018, Jul,Danville City,82000
 2018, Jul,Dickenson County,15200
 2018, Jul,Dinwiddie County,162000
-2018, Jul,Emporia City,N/A
+2018, Jul,Emporia City,
 2018, Jul,Essex County,173000
 2018, Jul,Fairfax City,550000
 2018, Jul,Fairfax County,530000
@@ -4057,7 +4057,7 @@ Year,Month,County_City,Median_Sale_Value
 2018, Jul,King George County,271750
 2018, Jul,King William County,196000
 2018, Jul,Lancaster County,285000
-2018, Jul,Lee County,N/A
+2018, Jul,Lee County,
 2018, Jul,Lexington City,252000
 2018, Jul,Loudoun County,480000
 2018, Jul,Louisa County,231000
@@ -4077,7 +4077,7 @@ Year,Month,County_City,Median_Sale_Value
 2018, Jul,Norfolk City,202850
 2018, Jul,Northampton County,279000
 2018, Jul,Northumberland County,309500
-2018, Jul,Norton City,N/A
+2018, Jul,Norton City,
 2018, Jul,Nottoway County,90000
 2018, Jul,Orange County,250000
 2018, Jul,Page County,189000
@@ -4119,7 +4119,7 @@ Year,Month,County_City,Median_Sale_Value
 2018, Jul,Westmoreland County,208500
 2018, Jul,Williamsburg City,248000
 2018, Jul,Winchester City,215000
-2018, Jul,Wise County,N/A
+2018, Jul,Wise County,
 2018, Jul,Wythe County,121500
 2018, Jul,York County,301750
 2018, Aug,Accomack County,185365
@@ -4155,9 +4155,9 @@ Year,Month,County_City,Median_Sale_Value
 2018, Aug,Culpeper County,288000
 2018, Aug,Cumberland County,130250
 2018, Aug,Danville City,97250
-2018, Aug,Dickenson County,N/A
+2018, Aug,Dickenson County,
 2018, Aug,Dinwiddie County,169950
-2018, Aug,Emporia City,N/A
+2018, Aug,Emporia City,
 2018, Aug,Essex County,174900
 2018, Aug,Fairfax City,517870.5
 2018, Aug,Fairfax County,510000
@@ -4175,7 +4175,7 @@ Year,Month,County_City,Median_Sale_Value
 2018, Aug,Goochland County,430450
 2018, Aug,Grayson County,140000
 2018, Aug,Greene County,265000
-2018, Aug,Greensville County,N/A
+2018, Aug,Greensville County,
 2018, Aug,Halifax County,98000
 2018, Aug,Hampton City,170000
 2018, Aug,Hanover County,290000
@@ -4190,7 +4190,7 @@ Year,Month,County_City,Median_Sale_Value
 2018, Aug,King George County,275000
 2018, Aug,King William County,208000
 2018, Aug,Lancaster County,276500
-2018, Aug,Lee County,N/A
+2018, Aug,Lee County,
 2018, Aug,Lexington City,209650
 2018, Aug,Loudoun County,487000
 2018, Aug,Louisa County,250500
@@ -4234,7 +4234,7 @@ Year,Month,County_City,Median_Sale_Value
 2018, Aug,Rockingham County,220000
 2018, Aug,Russell County,137450
 2018, Aug,Salem City,190500
-2018, Aug,Scott County,N/A
+2018, Aug,Scott County,
 2018, Aug,Shenandoah County,193700
 2018, Aug,Smyth County,119500
 2018, Aug,Southampton County,210000
@@ -4290,7 +4290,7 @@ Year,Month,County_City,Median_Sale_Value
 2018, Sep,Danville City,109540
 2018, Sep,Dickenson County,13500
 2018, Sep,Dinwiddie County,173950
-2018, Sep,Emporia City,N/A
+2018, Sep,Emporia City,
 2018, Sep,Essex County,195000
 2018, Sep,Fairfax City,508000
 2018, Sep,Fairfax County,485000
@@ -4323,7 +4323,7 @@ Year,Month,County_City,Median_Sale_Value
 2018, Sep,King George County,310000
 2018, Sep,King William County,199975
 2018, Sep,Lancaster County,330000
-2018, Sep,Lee County,N/A
+2018, Sep,Lee County,
 2018, Sep,Lexington City,179025
 2018, Sep,Loudoun County,490000
 2018, Sep,Louisa County,239225
@@ -4343,7 +4343,7 @@ Year,Month,County_City,Median_Sale_Value
 2018, Sep,Norfolk City,199950
 2018, Sep,Northampton County,259750
 2018, Sep,Northumberland County,189500
-2018, Sep,Norton City,N/A
+2018, Sep,Norton City,
 2018, Sep,Nottoway County,100500
 2018, Sep,Orange County,248500
 2018, Sep,Page County,160450
@@ -4367,7 +4367,7 @@ Year,Month,County_City,Median_Sale_Value
 2018, Sep,Rockingham County,211450
 2018, Sep,Russell County,112450
 2018, Sep,Salem City,163975
-2018, Sep,Scott County,N/A
+2018, Sep,Scott County,
 2018, Sep,Shenandoah County,205000
 2018, Sep,Smyth County,118000
 2018, Sep,Southampton County,117300
@@ -4399,7 +4399,7 @@ Year,Month,County_City,Median_Sale_Value
 2018, Oct,Augusta County,198000
 2018, Oct,Bath County,147500
 2018, Oct,Bedford County,229900
-2018, Oct,Bland County,N/A
+2018, Oct,Bland County,
 2018, Oct,Botetourt County,217000
 2018, Oct,Bristol City,165900
 2018, Oct,Brunswick County,114000
@@ -4421,9 +4421,9 @@ Year,Month,County_City,Median_Sale_Value
 2018, Oct,Culpeper County,308450
 2018, Oct,Cumberland County,200000
 2018, Oct,Danville City,83900
-2018, Oct,Dickenson County,N/A
+2018, Oct,Dickenson County,
 2018, Oct,Dinwiddie County,189975
-2018, Oct,Emporia City,N/A
+2018, Oct,Emporia City,
 2018, Oct,Essex County,167225
 2018, Oct,Fairfax City,595000
 2018, Oct,Fairfax County,480000
@@ -4448,7 +4448,7 @@ Year,Month,County_City,Median_Sale_Value
 2018, Oct,Harrisonburg City,185000
 2018, Oct,Henrico County,248000
 2018, Oct,Henry County,119500
-2018, Oct,Highland County,N/A
+2018, Oct,Highland County,
 2018, Oct,Hopewell City,85000
 2018, Oct,Isle of Wight County,330245
 2018, Oct,James City County,329885
@@ -4456,7 +4456,7 @@ Year,Month,County_City,Median_Sale_Value
 2018, Oct,King George County,289000
 2018, Oct,King William County,189000
 2018, Oct,Lancaster County,237500
-2018, Oct,Lee County,N/A
+2018, Oct,Lee County,
 2018, Oct,Lexington City,144250
 2018, Oct,Loudoun County,485000
 2018, Oct,Louisa County,230000
@@ -4500,7 +4500,7 @@ Year,Month,County_City,Median_Sale_Value
 2018, Oct,Rockingham County,239900
 2018, Oct,Russell County,126000
 2018, Oct,Salem City,170392.5
-2018, Oct,Scott County,N/A
+2018, Oct,Scott County,
 2018, Oct,Shenandoah County,182000
 2018, Oct,Smyth County,98500
 2018, Oct,Southampton County,135000
@@ -4535,7 +4535,7 @@ Year,Month,County_City,Median_Sale_Value
 2018, Nov,Bland County,152450
 2018, Nov,Botetourt County,196475
 2018, Nov,Bristol City,85000
-2018, Nov,Brunswick County,N/A
+2018, Nov,Brunswick County,
 2018, Nov,Buchanan County,140000
 2018, Nov,Buckingham County,104000
 2018, Nov,Buena Vista City,105000
@@ -4554,7 +4554,7 @@ Year,Month,County_City,Median_Sale_Value
 2018, Nov,Culpeper County,299720.5
 2018, Nov,Cumberland County,182250
 2018, Nov,Danville City,110000
-2018, Nov,Dickenson County,N/A
+2018, Nov,Dickenson County,
 2018, Nov,Dinwiddie County,130000
 2018, Nov,Emporia City,142000
 2018, Nov,Essex County,176500
@@ -4574,7 +4574,7 @@ Year,Month,County_City,Median_Sale_Value
 2018, Nov,Goochland County,615000
 2018, Nov,Grayson County,185000
 2018, Nov,Greene County,257330
-2018, Nov,Greensville County,N/A
+2018, Nov,Greensville County,
 2018, Nov,Halifax County,148200
 2018, Nov,Hampton City,185000
 2018, Nov,Hanover County,278000
@@ -4589,7 +4589,7 @@ Year,Month,County_City,Median_Sale_Value
 2018, Nov,King George County,260000
 2018, Nov,King William County,214950
 2018, Nov,Lancaster County,197500
-2018, Nov,Lee County,N/A
+2018, Nov,Lee County,
 2018, Nov,Lexington City,257500
 2018, Nov,Loudoun County,485000
 2018, Nov,Louisa County,225000
@@ -4609,7 +4609,7 @@ Year,Month,County_City,Median_Sale_Value
 2018, Nov,Norfolk City,205000
 2018, Nov,Northampton County,235000
 2018, Nov,Northumberland County,285000
-2018, Nov,Norton City,N/A
+2018, Nov,Norton City,
 2018, Nov,Nottoway County,199450
 2018, Nov,Orange County,231500
 2018, Nov,Page County,138900
@@ -4633,7 +4633,7 @@ Year,Month,County_City,Median_Sale_Value
 2018, Nov,Rockingham County,210000
 2018, Nov,Russell County,160000
 2018, Nov,Salem City,160000
-2018, Nov,Scott County,N/A
+2018, Nov,Scott County,
 2018, Nov,Shenandoah County,240000
 2018, Nov,Smyth County,104500
 2018, Nov,Southampton County,101100
@@ -4641,7 +4641,7 @@ Year,Month,County_City,Median_Sale_Value
 2018, Nov,Stafford County,347950
 2018, Nov,Staunton City,162500
 2018, Nov,Suffolk City,274000
-2018, Nov,Surry County,N/A
+2018, Nov,Surry County,
 2018, Nov,Sussex County,149950
 2018, Nov,Tazewell County,132500
 2018, Nov,Virginia Beach City,263000
@@ -4689,7 +4689,7 @@ Year,Month,County_City,Median_Sale_Value
 2018, Dec,Danville City,93000
 2018, Dec,Dickenson County,110000
 2018, Dec,Dinwiddie County,168500
-2018, Dec,Emporia City,N/A
+2018, Dec,Emporia City,
 2018, Dec,Essex County,254250
 2018, Dec,Fairfax City,556750
 2018, Dec,Fairfax County,495000
@@ -4707,7 +4707,7 @@ Year,Month,County_City,Median_Sale_Value
 2018, Dec,Goochland County,368750
 2018, Dec,Grayson County,110000
 2018, Dec,Greene County,245000
-2018, Dec,Greensville County,N/A
+2018, Dec,Greensville County,
 2018, Dec,Halifax County,50000
 2018, Dec,Hampton City,169000
 2018, Dec,Hanover County,276500
@@ -4722,7 +4722,7 @@ Year,Month,County_City,Median_Sale_Value
 2018, Dec,King George County,278700
 2018, Dec,King William County,202500
 2018, Dec,Lancaster County,218750
-2018, Dec,Lee County,N/A
+2018, Dec,Lee County,
 2018, Dec,Lexington City,187500
 2018, Dec,Loudoun County,474950
 2018, Dec,Louisa County,239950
@@ -4742,7 +4742,7 @@ Year,Month,County_City,Median_Sale_Value
 2018, Dec,Norfolk City,193750
 2018, Dec,Northampton County,290250
 2018, Dec,Northumberland County,210000
-2018, Dec,Norton City,N/A
+2018, Dec,Norton City,
 2018, Dec,Nottoway County,88000
 2018, Dec,Orange County,242500
 2018, Dec,Page County,166250
@@ -4766,7 +4766,7 @@ Year,Month,County_City,Median_Sale_Value
 2018, Dec,Rockingham County,194000
 2018, Dec,Russell County,79000
 2018, Dec,Salem City,163400
-2018, Dec,Scott County,N/A
+2018, Dec,Scott County,
 2018, Dec,Shenandoah County,184900
 2018, Dec,Smyth County,138700
 2018, Dec,Southampton County,185000
@@ -4784,7 +4784,7 @@ Year,Month,County_City,Median_Sale_Value
 2018, Dec,Westmoreland County,194500
 2018, Dec,Williamsburg City,209500
 2018, Dec,Winchester City,184450
-2018, Dec,Wise County,N/A
+2018, Dec,Wise County,
 2018, Dec,Wythe County,147500
 2018, Dec,York County,304000
 2019, Jan,Accomack County,160000
@@ -4796,7 +4796,7 @@ Year,Month,County_City,Median_Sale_Value
 2019, Jan,Appomattox County,85000
 2019, Jan,Arlington County,615000
 2019, Jan,Augusta County,228500
-2019, Jan,Bath County,N/A
+2019, Jan,Bath County,
 2019, Jan,Bedford County,240000
 2019, Jan,Bland County,150000
 2019, Jan,Botetourt County,285500
@@ -4822,7 +4822,7 @@ Year,Month,County_City,Median_Sale_Value
 2019, Jan,Danville City,82450
 2019, Jan,Dickenson County,94500
 2019, Jan,Dinwiddie County,177000
-2019, Jan,Emporia City,N/A
+2019, Jan,Emporia City,
 2019, Jan,Essex County,190000
 2019, Jan,Fairfax City,469000
 2019, Jan,Fairfax County,489426
@@ -4840,14 +4840,14 @@ Year,Month,County_City,Median_Sale_Value
 2019, Jan,Goochland County,500000
 2019, Jan,Grayson County,107150
 2019, Jan,Greene County,274877.5
-2019, Jan,Greensville County,N/A
+2019, Jan,Greensville County,
 2019, Jan,Halifax County,87500
 2019, Jan,Hampton City,162000
 2019, Jan,Hanover County,300000
 2019, Jan,Harrisonburg City,175400
 2019, Jan,Henrico County,238400
 2019, Jan,Henry County,83500
-2019, Jan,Highland County,N/A
+2019, Jan,Highland County,
 2019, Jan,Hopewell City,114500
 2019, Jan,Isle of Wight County,244900
 2019, Jan,James City County,285000
@@ -4855,7 +4855,7 @@ Year,Month,County_City,Median_Sale_Value
 2019, Jan,King George County,299500
 2019, Jan,King William County,190000
 2019, Jan,Lancaster County,232500
-2019, Jan,Lee County,N/A
+2019, Jan,Lee County,
 2019, Jan,Lexington City,177500
 2019, Jan,Loudoun County,485000
 2019, Jan,Louisa County,232653
@@ -4875,7 +4875,7 @@ Year,Month,County_City,Median_Sale_Value
 2019, Jan,Norfolk City,193000
 2019, Jan,Northampton County,315000
 2019, Jan,Northumberland County,256000
-2019, Jan,Norton City,N/A
+2019, Jan,Norton City,
 2019, Jan,Nottoway County,178750
 2019, Jan,Orange County,237450
 2019, Jan,Page County,167000
@@ -4899,7 +4899,7 @@ Year,Month,County_City,Median_Sale_Value
 2019, Jan,Rockingham County,233000
 2019, Jan,Russell County,73000
 2019, Jan,Salem City,167475
-2019, Jan,Scott County,N/A
+2019, Jan,Scott County,
 2019, Jan,Shenandoah County,193166
 2019, Jan,Smyth County,65000
 2019, Jan,Southampton County,170000
@@ -4935,25 +4935,25 @@ Year,Month,County_City,Median_Sale_Value
 2019, Feb,Botetourt County,225000
 2019, Feb,Bristol City,186000
 2019, Feb,Brunswick County,170000
-2019, Feb,Buchanan County,N/A
+2019, Feb,Buchanan County,
 2019, Feb,Buckingham County,152000
 2019, Feb,Buena Vista City,94500
 2019, Feb,Campbell County,170000
 2019, Feb,Caroline County,210000
 2019, Feb,Carroll County,116000
-2019, Feb,Charles City County,N/A
+2019, Feb,Charles City County,
 2019, Feb,Charlotte County,125500
 2019, Feb,Charlottesville City,388000
 2019, Feb,Chesapeake City,269900
 2019, Feb,Chesterfield County,250000
 2019, Feb,Clarke County,379500
 2019, Feb,Colonial Heights City,179100
-2019, Feb,Covington City,N/A
+2019, Feb,Covington City,
 2019, Feb,Craig County,158375
 2019, Feb,Culpeper County,306250
 2019, Feb,Cumberland County,161700
 2019, Feb,Danville City,82000
-2019, Feb,Dickenson County,N/A
+2019, Feb,Dickenson County,
 2019, Feb,Dinwiddie County,172450
 2019, Feb,Emporia City,50805
 2019, Feb,Essex County,154900
@@ -4988,7 +4988,7 @@ Year,Month,County_City,Median_Sale_Value
 2019, Feb,King George County,260500
 2019, Feb,King William County,212565
 2019, Feb,Lancaster County,149000
-2019, Feb,Lee County,N/A
+2019, Feb,Lee County,
 2019, Feb,Lexington City,391000
 2019, Feb,Loudoun County,478950
 2019, Feb,Louisa County,222450
@@ -5008,7 +5008,7 @@ Year,Month,County_City,Median_Sale_Value
 2019, Feb,Norfolk City,209950
 2019, Feb,Northampton County,147000
 2019, Feb,Northumberland County,264000
-2019, Feb,Norton City,N/A
+2019, Feb,Norton City,
 2019, Feb,Nottoway County,80000
 2019, Feb,Orange County,234000
 2019, Feb,Page County,206225
@@ -5032,7 +5032,7 @@ Year,Month,County_City,Median_Sale_Value
 2019, Feb,Rockingham County,236450
 2019, Feb,Russell County,100000
 2019, Feb,Salem City,164950
-2019, Feb,Scott County,N/A
+2019, Feb,Scott County,
 2019, Feb,Shenandoah County,169900
 2019, Feb,Smyth County,120000
 2019, Feb,Southampton County,179999.5
@@ -5086,9 +5086,9 @@ Year,Month,County_City,Median_Sale_Value
 2019, Mar,Culpeper County,324900
 2019, Mar,Cumberland County,157000
 2019, Mar,Danville City,84450
-2019, Mar,Dickenson County,N/A
+2019, Mar,Dickenson County,
 2019, Mar,Dinwiddie County,162475
-2019, Mar,Emporia City,N/A
+2019, Mar,Emporia City,
 2019, Mar,Essex County,164400
 2019, Mar,Fairfax City,580000
 2019, Mar,Fairfax County,529900
@@ -5106,14 +5106,14 @@ Year,Month,County_City,Median_Sale_Value
 2019, Mar,Goochland County,331725
 2019, Mar,Grayson County,115000
 2019, Mar,Greene County,269075
-2019, Mar,Greensville County,N/A
+2019, Mar,Greensville County,
 2019, Mar,Halifax County,70000
 2019, Mar,Hampton City,180650
 2019, Mar,Hanover County,310725.5
 2019, Mar,Harrisonburg City,193000
 2019, Mar,Henrico County,260000
 2019, Mar,Henry County,95000
-2019, Mar,Highland County,N/A
+2019, Mar,Highland County,
 2019, Mar,Hopewell City,122450
 2019, Mar,Isle of Wight County,233500
 2019, Mar,James City County,279000
@@ -5121,7 +5121,7 @@ Year,Month,County_City,Median_Sale_Value
 2019, Mar,King George County,275000
 2019, Mar,King William County,216250
 2019, Mar,Lancaster County,352298
-2019, Mar,Lee County,N/A
+2019, Mar,Lee County,
 2019, Mar,Lexington City,268750
 2019, Mar,Loudoun County,477000
 2019, Mar,Louisa County,218000
@@ -5141,7 +5141,7 @@ Year,Month,County_City,Median_Sale_Value
 2019, Mar,Norfolk City,210000
 2019, Mar,Northampton County,216000
 2019, Mar,Northumberland County,261250
-2019, Mar,Norton City,N/A
+2019, Mar,Norton City,
 2019, Mar,Nottoway County,124000
 2019, Mar,Orange County,274950
 2019, Mar,Page County,165000
@@ -5165,7 +5165,7 @@ Year,Month,County_City,Median_Sale_Value
 2019, Mar,Rockingham County,226950
 2019, Mar,Russell County,107500
 2019, Mar,Salem City,173750
-2019, Mar,Scott County,N/A
+2019, Mar,Scott County,
 2019, Mar,Shenandoah County,186500
 2019, Mar,Smyth County,108750
 2019, Mar,Southampton County,87500
@@ -5219,9 +5219,9 @@ Year,Month,County_City,Median_Sale_Value
 2019, Apr,Culpeper County,317500
 2019, Apr,Cumberland County,159950
 2019, Apr,Danville City,113500
-2019, Apr,Dickenson County,N/A
+2019, Apr,Dickenson County,
 2019, Apr,Dinwiddie County,204000
-2019, Apr,Emporia City,N/A
+2019, Apr,Emporia City,
 2019, Apr,Essex County,207500
 2019, Apr,Fairfax City,527500
 2019, Apr,Fairfax County,550000
@@ -5254,7 +5254,7 @@ Year,Month,County_City,Median_Sale_Value
 2019, Apr,King George County,304000
 2019, Apr,King William County,201000
 2019, Apr,Lancaster County,230000
-2019, Apr,Lee County,N/A
+2019, Apr,Lee County,
 2019, Apr,Lexington City,210000
 2019, Apr,Loudoun County,505000
 2019, Apr,Louisa County,229500
@@ -5274,7 +5274,7 @@ Year,Month,County_City,Median_Sale_Value
 2019, Apr,Norfolk City,215000
 2019, Apr,Northampton County,238750
 2019, Apr,Northumberland County,247500
-2019, Apr,Norton City,N/A
+2019, Apr,Norton City,
 2019, Apr,Nottoway County,115700
 2019, Apr,Orange County,265000
 2019, Apr,Page County,168750
@@ -5316,7 +5316,7 @@ Year,Month,County_City,Median_Sale_Value
 2019, Apr,Westmoreland County,174500
 2019, Apr,Williamsburg City,230000
 2019, Apr,Winchester City,222200
-2019, Apr,Wise County,N/A
+2019, Apr,Wise County,
 2019, Apr,Wythe County,130000
 2019, Apr,York County,299165
 2019, May,Accomack County,170000
@@ -5334,7 +5334,7 @@ Year,Month,County_City,Median_Sale_Value
 2019, May,Botetourt County,243000
 2019, May,Bristol City,100000
 2019, May,Brunswick County,99500
-2019, May,Buchanan County,N/A
+2019, May,Buchanan County,
 2019, May,Buckingham County,135000
 2019, May,Buena Vista City,128000
 2019, May,Campbell County,185000
@@ -5354,7 +5354,7 @@ Year,Month,County_City,Median_Sale_Value
 2019, May,Danville City,127500
 2019, May,Dickenson County,20000
 2019, May,Dinwiddie County,179950
-2019, May,Emporia City,N/A
+2019, May,Emporia City,
 2019, May,Essex County,167500
 2019, May,Fairfax City,563750
 2019, May,Fairfax County,549944
@@ -5387,7 +5387,7 @@ Year,Month,County_City,Median_Sale_Value
 2019, May,King George County,329900
 2019, May,King William County,225487
 2019, May,Lancaster County,250000
-2019, May,Lee County,N/A
+2019, May,Lee County,
 2019, May,Lexington City,175100
 2019, May,Loudoun County,499000
 2019, May,Louisa County,306900
@@ -5407,7 +5407,7 @@ Year,Month,County_City,Median_Sale_Value
 2019, May,Norfolk City,220000
 2019, May,Northampton County,314500
 2019, May,Northumberland County,235000
-2019, May,Norton City,N/A
+2019, May,Norton City,
 2019, May,Nottoway County,127000
 2019, May,Orange County,279950
 2019, May,Page County,155000
@@ -5485,7 +5485,7 @@ Year,Month,County_City,Median_Sale_Value
 2019, Jun,Culpeper County,300000
 2019, Jun,Cumberland County,141950
 2019, Jun,Danville City,124500
-2019, Jun,Dickenson County,N/A
+2019, Jun,Dickenson County,
 2019, Jun,Dinwiddie County,199925
 2019, Jun,Emporia City,95000
 2019, Jun,Essex County,195900
@@ -5505,7 +5505,7 @@ Year,Month,County_City,Median_Sale_Value
 2019, Jun,Goochland County,383950
 2019, Jun,Grayson County,150000
 2019, Jun,Greene County,269570
-2019, Jun,Greensville County,N/A
+2019, Jun,Greensville County,
 2019, Jun,Halifax County,112000
 2019, Jun,Hampton City,184950
 2019, Jun,Hanover County,320000
@@ -5520,7 +5520,7 @@ Year,Month,County_City,Median_Sale_Value
 2019, Jun,King George County,320750
 2019, Jun,King William County,207000
 2019, Jun,Lancaster County,367000
-2019, Jun,Lee County,N/A
+2019, Jun,Lee County,
 2019, Jun,Lexington City,317000
 2019, Jun,Loudoun County,520000
 2019, Jun,Louisa County,227000
@@ -5540,7 +5540,7 @@ Year,Month,County_City,Median_Sale_Value
 2019, Jun,Norfolk City,212000
 2019, Jun,Northampton County,245000
 2019, Jun,Northumberland County,270000
-2019, Jun,Norton City,N/A
+2019, Jun,Norton City,
 2019, Jun,Nottoway County,167000
 2019, Jun,Orange County,251900
 2019, Jun,Page County,160000
@@ -5564,7 +5564,7 @@ Year,Month,County_City,Median_Sale_Value
 2019, Jun,Rockingham County,255000
 2019, Jun,Russell County,114000
 2019, Jun,Salem City,177500
-2019, Jun,Scott County,N/A
+2019, Jun,Scott County,
 2019, Jun,Shenandoah County,190000
 2019, Jun,Smyth County,129800
 2019, Jun,Southampton County,172000
@@ -5620,7 +5620,7 @@ Year,Month,County_City,Median_Sale_Value
 2019, Jul,Danville City,113500
 2019, Jul,Dickenson County,35000
 2019, Jul,Dinwiddie County,193750
-2019, Jul,Emporia City,N/A
+2019, Jul,Emporia City,
 2019, Jul,Essex County,277750
 2019, Jul,Fairfax City,537000
 2019, Jul,Fairfax County,539000
@@ -5645,7 +5645,7 @@ Year,Month,County_City,Median_Sale_Value
 2019, Jul,Harrisonburg City,207000
 2019, Jul,Henrico County,280000
 2019, Jul,Henry County,125000
-2019, Jul,Highland County,N/A
+2019, Jul,Highland County,
 2019, Jul,Hopewell City,155000
 2019, Jul,Isle of Wight County,282000
 2019, Jul,James City County,315000
@@ -5653,7 +5653,7 @@ Year,Month,County_City,Median_Sale_Value
 2019, Jul,King George County,320400
 2019, Jul,King William County,206000
 2019, Jul,Lancaster County,485000
-2019, Jul,Lee County,N/A
+2019, Jul,Lee County,
 2019, Jul,Lexington City,364075
 2019, Jul,Loudoun County,519000
 2019, Jul,Louisa County,248250
@@ -5673,7 +5673,7 @@ Year,Month,County_City,Median_Sale_Value
 2019, Jul,Norfolk City,225000
 2019, Jul,Northampton County,297500
 2019, Jul,Northumberland County,210000
-2019, Jul,Norton City,N/A
+2019, Jul,Norton City,
 2019, Jul,Nottoway County,84700
 2019, Jul,Orange County,279450
 2019, Jul,Page County,172500
@@ -5753,7 +5753,7 @@ Year,Month,County_City,Median_Sale_Value
 2019, Aug,Danville City,130000
 2019, Aug,Dickenson County,245000
 2019, Aug,Dinwiddie County,198500
-2019, Aug,Emporia City,N/A
+2019, Aug,Emporia City,
 2019, Aug,Essex County,215000
 2019, Aug,Fairfax City,582450
 2019, Aug,Fairfax County,529000
@@ -5786,7 +5786,7 @@ Year,Month,County_City,Median_Sale_Value
 2019, Aug,King George County,320000
 2019, Aug,King William County,205000
 2019, Aug,Lancaster County,250000
-2019, Aug,Lee County,N/A
+2019, Aug,Lee County,
 2019, Aug,Lexington City,305000
 2019, Aug,Loudoun County,515000
 2019, Aug,Louisa County,241000
@@ -5806,7 +5806,7 @@ Year,Month,County_City,Median_Sale_Value
 2019, Aug,Norfolk City,220500
 2019, Aug,Northampton County,299000
 2019, Aug,Northumberland County,304382.5
-2019, Aug,Norton City,N/A
+2019, Aug,Norton City,
 2019, Aug,Nottoway County,175000
 2019, Aug,Orange County,252500
 2019, Aug,Page County,164000
@@ -5866,7 +5866,7 @@ Year,Month,County_City,Median_Sale_Value
 2019, Sep,Botetourt County,259000
 2019, Sep,Bristol City,85000
 2019, Sep,Brunswick County,122000
-2019, Sep,Buchanan County,N/A
+2019, Sep,Buchanan County,
 2019, Sep,Buckingham County,150000
 2019, Sep,Buena Vista City,107000
 2019, Sep,Campbell County,181950
@@ -5884,9 +5884,9 @@ Year,Month,County_City,Median_Sale_Value
 2019, Sep,Culpeper County,310400
 2019, Sep,Cumberland County,298700
 2019, Sep,Danville City,108950
-2019, Sep,Dickenson County,N/A
+2019, Sep,Dickenson County,
 2019, Sep,Dinwiddie County,195000
-2019, Sep,Emporia City,N/A
+2019, Sep,Emporia City,
 2019, Sep,Essex County,270000
 2019, Sep,Fairfax City,520000
 2019, Sep,Fairfax County,505000
@@ -5919,7 +5919,7 @@ Year,Month,County_City,Median_Sale_Value
 2019, Sep,King George County,319900
 2019, Sep,King William County,219000
 2019, Sep,Lancaster County,335750
-2019, Sep,Lee County,N/A
+2019, Sep,Lee County,
 2019, Sep,Lexington City,185000
 2019, Sep,Loudoun County,505000
 2019, Sep,Louisa County,277950
@@ -5939,7 +5939,7 @@ Year,Month,County_City,Median_Sale_Value
 2019, Sep,Norfolk City,212750
 2019, Sep,Northampton County,255000
 2019, Sep,Northumberland County,309000
-2019, Sep,Norton City,N/A
+2019, Sep,Norton City,
 2019, Sep,Nottoway County,85033
 2019, Sep,Orange County,243900
 2019, Sep,Page County,195500
@@ -5963,7 +5963,7 @@ Year,Month,County_City,Median_Sale_Value
 2019, Sep,Rockingham County,250000
 2019, Sep,Russell County,81000
 2019, Sep,Salem City,147475
-2019, Sep,Scott County,N/A
+2019, Sep,Scott County,
 2019, Sep,Shenandoah County,188000
 2019, Sep,Smyth County,55000
 2019, Sep,Southampton County,123950
@@ -6017,9 +6017,9 @@ Year,Month,County_City,Median_Sale_Value
 2019, Oct,Culpeper County,312000
 2019, Oct,Cumberland County,128950
 2019, Oct,Danville City,105000
-2019, Oct,Dickenson County,N/A
+2019, Oct,Dickenson County,
 2019, Oct,Dinwiddie County,235000
-2019, Oct,Emporia City,N/A
+2019, Oct,Emporia City,
 2019, Oct,Essex County,195000
 2019, Oct,Fairfax City,545000
 2019, Oct,Fairfax County,540000
@@ -6052,7 +6052,7 @@ Year,Month,County_City,Median_Sale_Value
 2019, Oct,King George County,267500
 2019, Oct,King William County,210000
 2019, Oct,Lancaster County,375000
-2019, Oct,Lee County,N/A
+2019, Oct,Lee County,
 2019, Oct,Lexington City,219000
 2019, Oct,Loudoun County,500000
 2019, Oct,Louisa County,249000
@@ -6072,7 +6072,7 @@ Year,Month,County_City,Median_Sale_Value
 2019, Oct,Norfolk City,212750
 2019, Oct,Northampton County,265000
 2019, Oct,Northumberland County,336750
-2019, Oct,Norton City,N/A
+2019, Oct,Norton City,
 2019, Oct,Nottoway County,94000
 2019, Oct,Orange County,257450
 2019, Oct,Page County,180000
@@ -6152,7 +6152,7 @@ Year,Month,County_City,Median_Sale_Value
 2019, Nov,Danville City,115000
 2019, Nov,Dickenson County,10000
 2019, Nov,Dinwiddie County,187475
-2019, Nov,Emporia City,N/A
+2019, Nov,Emporia City,
 2019, Nov,Essex County,215000
 2019, Nov,Fairfax City,554250
 2019, Nov,Fairfax County,536500
@@ -6185,7 +6185,7 @@ Year,Month,County_City,Median_Sale_Value
 2019, Nov,King George County,350000
 2019, Nov,King William County,217000
 2019, Nov,Lancaster County,374500
-2019, Nov,Lee County,N/A
+2019, Nov,Lee County,
 2019, Nov,Lexington City,155000
 2019, Nov,Loudoun County,493000
 2019, Nov,Louisa County,259950
@@ -6205,7 +6205,7 @@ Year,Month,County_City,Median_Sale_Value
 2019, Nov,Norfolk City,210000
 2019, Nov,Northampton County,263250
 2019, Nov,Northumberland County,280000
-2019, Nov,Norton City,N/A
+2019, Nov,Norton City,
 2019, Nov,Nottoway County,181000
 2019, Nov,Orange County,235500
 2019, Nov,Page County,165000
@@ -6229,7 +6229,7 @@ Year,Month,County_City,Median_Sale_Value
 2019, Nov,Rockingham County,241500
 2019, Nov,Russell County,140000
 2019, Nov,Salem City,169500
-2019, Nov,Scott County,N/A
+2019, Nov,Scott County,
 2019, Nov,Shenandoah County,224000
 2019, Nov,Smyth County,130250
 2019, Nov,Southampton County,153000
@@ -6283,9 +6283,9 @@ Year,Month,County_City,Median_Sale_Value
 2019, Dec,Culpeper County,307500
 2019, Dec,Cumberland County,200000
 2019, Dec,Danville City,89337
-2019, Dec,Dickenson County,N/A
+2019, Dec,Dickenson County,
 2019, Dec,Dinwiddie County,186000
-2019, Dec,Emporia City,N/A
+2019, Dec,Emporia City,
 2019, Dec,Essex County,234500
 2019, Dec,Fairfax City,548750
 2019, Dec,Fairfax County,549950
@@ -6303,7 +6303,7 @@ Year,Month,County_City,Median_Sale_Value
 2019, Dec,Goochland County,296437
 2019, Dec,Grayson County,125000
 2019, Dec,Greene County,270000
-2019, Dec,Greensville County,N/A
+2019, Dec,Greensville County,
 2019, Dec,Halifax County,84000
 2019, Dec,Hampton City,187000
 2019, Dec,Hanover County,323000
@@ -6318,7 +6318,7 @@ Year,Month,County_City,Median_Sale_Value
 2019, Dec,King George County,317000
 2019, Dec,King William County,194725
 2019, Dec,Lancaster County,278750
-2019, Dec,Lee County,N/A
+2019, Dec,Lee County,
 2019, Dec,Lexington City,487150
 2019, Dec,Loudoun County,523000
 2019, Dec,Louisa County,239950
@@ -6338,7 +6338,7 @@ Year,Month,County_City,Median_Sale_Value
 2019, Dec,Norfolk City,220000
 2019, Dec,Northampton County,244950
 2019, Dec,Northumberland County,345750
-2019, Dec,Norton City,N/A
+2019, Dec,Norton City,
 2019, Dec,Nottoway County,135000
 2019, Dec,Orange County,269900
 2019, Dec,Page County,184900
@@ -6380,7 +6380,7 @@ Year,Month,County_City,Median_Sale_Value
 2019, Dec,Westmoreland County,172500
 2019, Dec,Williamsburg City,268000
 2019, Dec,Winchester City,238500
-2019, Dec,Wise County,N/A
+2019, Dec,Wise County,
 2019, Dec,Wythe County,128900
 2019, Dec,York County,322500
 2020, Jan,Accomack County,239500
@@ -6451,7 +6451,7 @@ Year,Month,County_City,Median_Sale_Value
 2020, Jan,King George County,287500
 2020, Jan,King William County,184875
 2020, Jan,Lancaster County,217500
-2020, Jan,Lee County,N/A
+2020, Jan,Lee County,
 2020, Jan,Lexington City,240000
 2020, Jan,Loudoun County,495567
 2020, Jan,Louisa County,246245
@@ -6471,7 +6471,7 @@ Year,Month,County_City,Median_Sale_Value
 2020, Jan,Norfolk City,210000
 2020, Jan,Northampton County,174000
 2020, Jan,Northumberland County,285000
-2020, Jan,Norton City,N/A
+2020, Jan,Norton City,
 2020, Jan,Nottoway County,150000
 2020, Jan,Orange County,250000
 2020, Jan,Page County,186500
@@ -6495,7 +6495,7 @@ Year,Month,County_City,Median_Sale_Value
 2020, Jan,Rockingham County,221800
 2020, Jan,Russell County,69900
 2020, Jan,Salem City,233975
-2020, Jan,Scott County,N/A
+2020, Jan,Scott County,
 2020, Jan,Shenandoah County,192000
 2020, Jan,Smyth County,71000
 2020, Jan,Southampton County,175000
@@ -6549,9 +6549,9 @@ Year,Month,County_City,Median_Sale_Value
 2020, Feb,Culpeper County,324900
 2020, Feb,Cumberland County,120000
 2020, Feb,Danville City,94750
-2020, Feb,Dickenson County,N/A
+2020, Feb,Dickenson County,
 2020, Feb,Dinwiddie County,189975
-2020, Feb,Emporia City,N/A
+2020, Feb,Emporia City,
 2020, Feb,Essex County,179975
 2020, Feb,Fairfax City,479000
 2020, Feb,Fairfax County,560000
@@ -6584,7 +6584,7 @@ Year,Month,County_City,Median_Sale_Value
 2020, Feb,King George County,334000
 2020, Feb,King William County,220000
 2020, Feb,Lancaster County,213000
-2020, Feb,Lee County,N/A
+2020, Feb,Lee County,
 2020, Feb,Lexington City,144500
 2020, Feb,Loudoun County,504500
 2020, Feb,Louisa County,243500
@@ -6604,7 +6604,7 @@ Year,Month,County_City,Median_Sale_Value
 2020, Feb,Norfolk City,215000
 2020, Feb,Northampton County,432000
 2020, Feb,Northumberland County,382500
-2020, Feb,Norton City,N/A
+2020, Feb,Norton City,
 2020, Feb,Nottoway County,75000
 2020, Feb,Orange County,285750
 2020, Feb,Page County,168750
@@ -6628,7 +6628,7 @@ Year,Month,County_City,Median_Sale_Value
 2020, Feb,Rockingham County,207000
 2020, Feb,Russell County,76387
 2020, Feb,Salem City,191000
-2020, Feb,Scott County,N/A
+2020, Feb,Scott County,
 2020, Feb,Shenandoah County,229900
 2020, Feb,Smyth County,115000
 2020, Feb,Southampton County,219000
@@ -6660,7 +6660,7 @@ Year,Month,County_City,Median_Sale_Value
 2020, Mar,Augusta County,250999
 2020, Mar,Bath County,120000
 2020, Mar,Bedford County,262000
-2020, Mar,Bland County,N/A
+2020, Mar,Bland County,
 2020, Mar,Botetourt County,252000
 2020, Mar,Bristol City,90750
 2020, Mar,Brunswick County,103850
@@ -6684,7 +6684,7 @@ Year,Month,County_City,Median_Sale_Value
 2020, Mar,Danville City,93500
 2020, Mar,Dickenson County,45000
 2020, Mar,Dinwiddie County,209900
-2020, Mar,Emporia City,N/A
+2020, Mar,Emporia City,
 2020, Mar,Essex County,196200
 2020, Mar,Fairfax City,588000
 2020, Mar,Fairfax County,570000
@@ -6702,14 +6702,14 @@ Year,Month,County_City,Median_Sale_Value
 2020, Mar,Goochland County,393750
 2020, Mar,Grayson County,104500
 2020, Mar,Greene County,276460
-2020, Mar,Greensville County,N/A
+2020, Mar,Greensville County,
 2020, Mar,Halifax County,122500
 2020, Mar,Hampton City,190000
 2020, Mar,Hanover County,326090
 2020, Mar,Harrisonburg City,225000
 2020, Mar,Henrico County,275000
 2020, Mar,Henry County,119000
-2020, Mar,Highland County,N/A
+2020, Mar,Highland County,
 2020, Mar,Hopewell City,114000
 2020, Mar,Isle of Wight County,316900
 2020, Mar,James City County,280000
@@ -6717,7 +6717,7 @@ Year,Month,County_City,Median_Sale_Value
 2020, Mar,King George County,280000
 2020, Mar,King William County,223270
 2020, Mar,Lancaster County,310000
-2020, Mar,Lee County,N/A
+2020, Mar,Lee County,
 2020, Mar,Lexington City,249000
 2020, Mar,Loudoun County,541626
 2020, Mar,Louisa County,255000
@@ -6737,7 +6737,7 @@ Year,Month,County_City,Median_Sale_Value
 2020, Mar,Norfolk City,220700
 2020, Mar,Northampton County,283000
 2020, Mar,Northumberland County,234250
-2020, Mar,Norton City,N/A
+2020, Mar,Norton City,
 2020, Mar,Nottoway County,110000
 2020, Mar,Orange County,266250
 2020, Mar,Page County,166250
@@ -6779,7 +6779,7 @@ Year,Month,County_City,Median_Sale_Value
 2020, Mar,Westmoreland County,194500
 2020, Mar,Williamsburg City,290000
 2020, Mar,Winchester City,205000
-2020, Mar,Wise County,N/A
+2020, Mar,Wise County,
 2020, Mar,Wythe County,159000
 2020, Mar,York County,301307.5
 2020, Apr,Accomack County,174000
@@ -6815,9 +6815,9 @@ Year,Month,County_City,Median_Sale_Value
 2020, Apr,Culpeper County,349500
 2020, Apr,Cumberland County,183000
 2020, Apr,Danville City,88000
-2020, Apr,Dickenson County,N/A
+2020, Apr,Dickenson County,
 2020, Apr,Dinwiddie County,200000
-2020, Apr,Emporia City,N/A
+2020, Apr,Emporia City,
 2020, Apr,Essex County,218000
 2020, Apr,Fairfax City,582500
 2020, Apr,Fairfax County,584500
@@ -6850,7 +6850,7 @@ Year,Month,County_City,Median_Sale_Value
 2020, Apr,King George County,334950
 2020, Apr,King William County,230500
 2020, Apr,Lancaster County,220000
-2020, Apr,Lee County,N/A
+2020, Apr,Lee County,
 2020, Apr,Lexington City,242500
 2020, Apr,Loudoun County,540000
 2020, Apr,Louisa County,248000
@@ -6870,7 +6870,7 @@ Year,Month,County_City,Median_Sale_Value
 2020, Apr,Norfolk City,225000
 2020, Apr,Northampton County,269000
 2020, Apr,Northumberland County,280000
-2020, Apr,Norton City,N/A
+2020, Apr,Norton City,
 2020, Apr,Nottoway County,149500
 2020, Apr,Orange County,259900
 2020, Apr,Page County,195000
@@ -6912,7 +6912,7 @@ Year,Month,County_City,Median_Sale_Value
 2020, Apr,Westmoreland County,193775
 2020, Apr,Williamsburg City,242450
 2020, Apr,Winchester City,261450
-2020, Apr,Wise County,N/A
+2020, Apr,Wise County,
 2020, Apr,Wythe County,154000
 2020, Apr,York County,285900
 2020, May,Accomack County,152500
@@ -6926,7 +6926,7 @@ Year,Month,County_City,Median_Sale_Value
 2020, May,Augusta County,255000
 2020, May,Bath County,235000
 2020, May,Bedford County,237350
-2020, May,Bland County,N/A
+2020, May,Bland County,
 2020, May,Botetourt County,224500
 2020, May,Bristol City,68450
 2020, May,Brunswick County,102250
@@ -6943,14 +6943,14 @@ Year,Month,County_City,Median_Sale_Value
 2020, May,Chesterfield County,283475
 2020, May,Clarke County,413000
 2020, May,Colonial Heights City,170975
-2020, May,Covington City,N/A
+2020, May,Covington City,
 2020, May,Craig County,155500
 2020, May,Culpeper County,343000
 2020, May,Cumberland County,202000
 2020, May,Danville City,112450
-2020, May,Dickenson County,N/A
+2020, May,Dickenson County,
 2020, May,Dinwiddie County,208500
-2020, May,Emporia City,N/A
+2020, May,Emporia City,
 2020, May,Essex County,182950
 2020, May,Fairfax City,592500
 2020, May,Fairfax County,578500
@@ -6968,7 +6968,7 @@ Year,Month,County_City,Median_Sale_Value
 2020, May,Goochland County,346000
 2020, May,Grayson County,151500
 2020, May,Greene County,307270
-2020, May,Greensville County,N/A
+2020, May,Greensville County,
 2020, May,Halifax County,125000
 2020, May,Hampton City,199900
 2020, May,Hanover County,319900
@@ -6983,7 +6983,7 @@ Year,Month,County_City,Median_Sale_Value
 2020, May,King George County,339000
 2020, May,King William County,249950
 2020, May,Lancaster County,245000
-2020, May,Lee County,N/A
+2020, May,Lee County,
 2020, May,Lexington City,217500
 2020, May,Loudoun County,530000
 2020, May,Louisa County,255000
@@ -7003,7 +7003,7 @@ Year,Month,County_City,Median_Sale_Value
 2020, May,Norfolk City,234000
 2020, May,Northampton County,195000
 2020, May,Northumberland County,235000
-2020, May,Norton City,N/A
+2020, May,Norton City,
 2020, May,Nottoway County,135000
 2020, May,Orange County,250900
 2020, May,Page County,185950
@@ -7027,7 +7027,7 @@ Year,Month,County_City,Median_Sale_Value
 2020, May,Rockingham County,259900
 2020, May,Russell County,119500
 2020, May,Salem City,161975
-2020, May,Scott County,N/A
+2020, May,Scott County,
 2020, May,Shenandoah County,199000
 2020, May,Smyth County,134500
 2020, May,Southampton County,226450
@@ -7081,9 +7081,9 @@ Year,Month,County_City,Median_Sale_Value
 2020, Jun,Culpeper County,352450
 2020, Jun,Cumberland County,134000
 2020, Jun,Danville City,105000
-2020, Jun,Dickenson County,N/A
+2020, Jun,Dickenson County,
 2020, Jun,Dinwiddie County,205500
-2020, Jun,Emporia City,N/A
+2020, Jun,Emporia City,
 2020, Jun,Essex County,218000
 2020, Jun,Fairfax City,560500
 2020, Jun,Fairfax County,589990
@@ -7116,7 +7116,7 @@ Year,Month,County_City,Median_Sale_Value
 2020, Jun,King George County,328000
 2020, Jun,King William County,232000
 2020, Jun,Lancaster County,310500
-2020, Jun,Lee County,N/A
+2020, Jun,Lee County,
 2020, Jun,Lexington City,347666.5
 2020, Jun,Loudoun County,530000
 2020, Jun,Louisa County,292500
@@ -7136,7 +7136,7 @@ Year,Month,County_City,Median_Sale_Value
 2020, Jun,Norfolk City,239950
 2020, Jun,Northampton County,141000
 2020, Jun,Northumberland County,336100
-2020, Jun,Norton City,N/A
+2020, Jun,Norton City,
 2020, Jun,Nottoway County,131000
 2020, Jun,Orange County,280000
 2020, Jun,Page County,196000
@@ -7214,9 +7214,9 @@ Year,Month,County_City,Median_Sale_Value
 2020, Jul,Culpeper County,328950
 2020, Jul,Cumberland County,200000
 2020, Jul,Danville City,132500
-2020, Jul,Dickenson County,N/A
+2020, Jul,Dickenson County,
 2020, Jul,Dinwiddie County,205500
-2020, Jul,Emporia City,N/A
+2020, Jul,Emporia City,
 2020, Jul,Essex County,189950
 2020, Jul,Fairfax City,632000
 2020, Jul,Fairfax County,615000
@@ -7249,7 +7249,7 @@ Year,Month,County_City,Median_Sale_Value
 2020, Jul,King George County,349900
 2020, Jul,King William County,244900
 2020, Jul,Lancaster County,275500
-2020, Jul,Lee County,N/A
+2020, Jul,Lee County,
 2020, Jul,Lexington City,340000
 2020, Jul,Loudoun County,565250
 2020, Jul,Louisa County,307500
@@ -7269,7 +7269,7 @@ Year,Month,County_City,Median_Sale_Value
 2020, Jul,Norfolk City,235000
 2020, Jul,Northampton County,394499.5
 2020, Jul,Northumberland County,373250
-2020, Jul,Norton City,N/A
+2020, Jul,Norton City,
 2020, Jul,Nottoway County,137500
 2020, Jul,Orange County,284750
 2020, Jul,Page County,202450
@@ -7293,7 +7293,7 @@ Year,Month,County_City,Median_Sale_Value
 2020, Jul,Rockingham County,246900
 2020, Jul,Russell County,121000
 2020, Jul,Salem City,190000
-2020, Jul,Scott County,N/A
+2020, Jul,Scott County,
 2020, Jul,Shenandoah County,228500
 2020, Jul,Smyth County,94000
 2020, Jul,Southampton County,242000
@@ -7311,7 +7311,7 @@ Year,Month,County_City,Median_Sale_Value
 2020, Jul,Westmoreland County,216450
 2020, Jul,Williamsburg City,220000
 2020, Jul,Winchester City,292000
-2020, Jul,Wise County,N/A
+2020, Jul,Wise County,
 2020, Jul,Wythe County,157000
 2020, Jul,York County,323500
 2020, Aug,Accomack County,205000
@@ -7382,7 +7382,7 @@ Year,Month,County_City,Median_Sale_Value
 2020, Aug,King George County,390000
 2020, Aug,King William County,225475
 2020, Aug,Lancaster County,400000
-2020, Aug,Lee County,N/A
+2020, Aug,Lee County,
 2020, Aug,Lexington City,274000
 2020, Aug,Loudoun County,565000
 2020, Aug,Louisa County,274950
@@ -7402,7 +7402,7 @@ Year,Month,County_City,Median_Sale_Value
 2020, Aug,Norfolk City,241000
 2020, Aug,Northampton County,347000
 2020, Aug,Northumberland County,360000
-2020, Aug,Norton City,N/A
+2020, Aug,Norton City,
 2020, Aug,Nottoway County,78000
 2020, Aug,Orange County,287000
 2020, Aug,Page County,224950
@@ -7480,7 +7480,7 @@ Year,Month,County_City,Median_Sale_Value
 2020, Sep,Culpeper County,348000
 2020, Sep,Cumberland County,175000
 2020, Sep,Danville City,140000
-2020, Sep,Dickenson County,N/A
+2020, Sep,Dickenson County,
 2020, Sep,Dinwiddie County,195000
 2020, Sep,Emporia City,192000
 2020, Sep,Essex County,204000
@@ -7515,7 +7515,7 @@ Year,Month,County_City,Median_Sale_Value
 2020, Sep,King George County,329900
 2020, Sep,King William County,225000
 2020, Sep,Lancaster County,385000
-2020, Sep,Lee County,N/A
+2020, Sep,Lee County,
 2020, Sep,Lexington City,440225
 2020, Sep,Loudoun County,550000
 2020, Sep,Louisa County,260000
@@ -7535,7 +7535,7 @@ Year,Month,County_City,Median_Sale_Value
 2020, Sep,Norfolk City,245000
 2020, Sep,Northampton County,380000
 2020, Sep,Northumberland County,400000
-2020, Sep,Norton City,N/A
+2020, Sep,Norton City,
 2020, Sep,Nottoway County,140000
 2020, Sep,Orange County,291075
 2020, Sep,Page County,203000
@@ -7594,7 +7594,7 @@ Year,Month,County_City,Median_Sale_Value
 2020, Oct,Bland County,89500
 2020, Oct,Botetourt County,289500
 2020, Oct,Bristol City,171050
-2020, Oct,Brunswick County,N/A
+2020, Oct,Brunswick County,
 2020, Oct,Buchanan County,63500
 2020, Oct,Buckingham County,245000
 2020, Oct,Buena Vista City,68750
@@ -7615,7 +7615,7 @@ Year,Month,County_City,Median_Sale_Value
 2020, Oct,Danville City,115000
 2020, Oct,Dickenson County,83500
 2020, Oct,Dinwiddie County,233000
-2020, Oct,Emporia City,N/A
+2020, Oct,Emporia City,
 2020, Oct,Essex County,257000
 2020, Oct,Fairfax City,657500
 2020, Oct,Fairfax County,585000
@@ -7648,7 +7648,7 @@ Year,Month,County_City,Median_Sale_Value
 2020, Oct,King George County,349450
 2020, Oct,King William County,264417
 2020, Oct,Lancaster County,427000
-2020, Oct,Lee County,N/A
+2020, Oct,Lee County,
 2020, Oct,Lexington City,345000
 2020, Oct,Loudoun County,542000
 2020, Oct,Louisa County,309000
@@ -7668,7 +7668,7 @@ Year,Month,County_City,Median_Sale_Value
 2020, Oct,Norfolk City,245000
 2020, Oct,Northampton County,283500
 2020, Oct,Northumberland County,364900
-2020, Oct,Norton City,N/A
+2020, Oct,Norton City,
 2020, Oct,Nottoway County,140000
 2020, Oct,Orange County,315000
 2020, Oct,Page County,238950
@@ -7692,7 +7692,7 @@ Year,Month,County_City,Median_Sale_Value
 2020, Oct,Rockingham County,260000
 2020, Oct,Russell County,136150
 2020, Oct,Salem City,208500
-2020, Oct,Scott County,N/A
+2020, Oct,Scott County,
 2020, Oct,Shenandoah County,232500
 2020, Oct,Smyth County,128000
 2020, Oct,Southampton County,184000
@@ -7710,7 +7710,7 @@ Year,Month,County_City,Median_Sale_Value
 2020, Oct,Westmoreland County,245000
 2020, Oct,Williamsburg City,250000
 2020, Oct,Winchester City,280750
-2020, Oct,Wise County,N/A
+2020, Oct,Wise County,
 2020, Oct,Wythe County,155000
 2020, Oct,York County,313700
 2020, Nov,Accomack County,145000
@@ -7727,7 +7727,7 @@ Year,Month,County_City,Median_Sale_Value
 2020, Nov,Bland County,90000
 2020, Nov,Botetourt County,250750
 2020, Nov,Bristol City,115750
-2020, Nov,Brunswick County,N/A
+2020, Nov,Brunswick County,
 2020, Nov,Buchanan County,65000
 2020, Nov,Buckingham County,129500
 2020, Nov,Buena Vista City,200250
@@ -7746,7 +7746,7 @@ Year,Month,County_City,Median_Sale_Value
 2020, Nov,Culpeper County,340000
 2020, Nov,Cumberland County,232400
 2020, Nov,Danville City,102200
-2020, Nov,Dickenson County,N/A
+2020, Nov,Dickenson County,
 2020, Nov,Dinwiddie County,215000
 2020, Nov,Emporia City,345000
 2020, Nov,Essex County,285000
@@ -7781,7 +7781,7 @@ Year,Month,County_City,Median_Sale_Value
 2020, Nov,King George County,361929.5
 2020, Nov,King William County,241500
 2020, Nov,Lancaster County,435000
-2020, Nov,Lee County,N/A
+2020, Nov,Lee County,
 2020, Nov,Lexington City,370000
 2020, Nov,Loudoun County,561000
 2020, Nov,Louisa County,333900
@@ -7801,7 +7801,7 @@ Year,Month,County_City,Median_Sale_Value
 2020, Nov,Norfolk City,245000
 2020, Nov,Northampton County,282000
 2020, Nov,Northumberland County,335000
-2020, Nov,Norton City,N/A
+2020, Nov,Norton City,
 2020, Nov,Nottoway County,132500
 2020, Nov,Orange County,273500
 2020, Nov,Page County,229900
@@ -7861,7 +7861,7 @@ Year,Month,County_City,Median_Sale_Value
 2020, Dec,Botetourt County,284900
 2020, Dec,Bristol City,96250
 2020, Dec,Brunswick County,84950
-2020, Dec,Buchanan County,N/A
+2020, Dec,Buchanan County,
 2020, Dec,Buckingham County,199000
 2020, Dec,Buena Vista City,116000
 2020, Dec,Campbell County,208950
@@ -7879,7 +7879,7 @@ Year,Month,County_City,Median_Sale_Value
 2020, Dec,Culpeper County,379000
 2020, Dec,Cumberland County,172500
 2020, Dec,Danville City,101000
-2020, Dec,Dickenson County,N/A
+2020, Dec,Dickenson County,
 2020, Dec,Dinwiddie County,227500
 2020, Dec,Emporia City,170500
 2020, Dec,Essex County,170500
@@ -7914,7 +7914,7 @@ Year,Month,County_City,Median_Sale_Value
 2020, Dec,King George County,350000
 2020, Dec,King William County,235000
 2020, Dec,Lancaster County,369000
-2020, Dec,Lee County,N/A
+2020, Dec,Lee County,
 2020, Dec,Lexington City,364750
 2020, Dec,Loudoun County,542250
 2020, Dec,Louisa County,297000
@@ -7934,7 +7934,7 @@ Year,Month,County_City,Median_Sale_Value
 2020, Dec,Norfolk City,240000
 2020, Dec,Northampton County,342000
 2020, Dec,Northumberland County,449500
-2020, Dec,Norton City,N/A
+2020, Dec,Norton City,
 2020, Dec,Nottoway County,204450
 2020, Dec,Orange County,307700
 2020, Dec,Page County,196250
@@ -7958,7 +7958,7 @@ Year,Month,County_City,Median_Sale_Value
 2020, Dec,Rockingham County,284900
 2020, Dec,Russell County,151950
 2020, Dec,Salem City,199500
-2020, Dec,Scott County,N/A
+2020, Dec,Scott County,
 2020, Dec,Shenandoah County,241450
 2020, Dec,Smyth County,95000
 2020, Dec,Southampton County,177450
@@ -7976,7 +7976,7 @@ Year,Month,County_City,Median_Sale_Value
 2020, Dec,Westmoreland County,222500
 2020, Dec,Williamsburg City,378015
 2020, Dec,Winchester City,236550
-2020, Dec,Wise County,N/A
+2020, Dec,Wise County,
 2020, Dec,Wythe County,165000
 2020, Dec,York County,324825
 2021, Jan,Accomack County,235000
@@ -8012,9 +8012,9 @@ Year,Month,County_City,Median_Sale_Value
 2021, Jan,Culpeper County,359900
 2021, Jan,Cumberland County,146000
 2021, Jan,Danville City,113000
-2021, Jan,Dickenson County,N/A
+2021, Jan,Dickenson County,
 2021, Jan,Dinwiddie County,232979.5
-2021, Jan,Emporia City,N/A
+2021, Jan,Emporia City,
 2021, Jan,Essex County,239500
 2021, Jan,Fairfax City,625000
 2021, Jan,Fairfax County,550000
@@ -8047,7 +8047,7 @@ Year,Month,County_City,Median_Sale_Value
 2021, Jan,King George County,350000
 2021, Jan,King William County,220000
 2021, Jan,Lancaster County,417500
-2021, Jan,Lee County,N/A
+2021, Jan,Lee County,
 2021, Jan,Lexington City,238625
 2021, Jan,Loudoun County,555000
 2021, Jan,Louisa County,295000
@@ -8067,7 +8067,7 @@ Year,Month,County_City,Median_Sale_Value
 2021, Jan,Norfolk City,247500
 2021, Jan,Northampton County,245000
 2021, Jan,Northumberland County,265000
-2021, Jan,Norton City,N/A
+2021, Jan,Norton City,
 2021, Jan,Nottoway County,136900
 2021, Jan,Orange County,316000
 2021, Jan,Page County,224950
@@ -8141,13 +8141,13 @@ Year,Month,County_City,Median_Sale_Value
 2021,Feb,Clarke County,420000
 2021,Feb,Colonial Heights City,215000
 2021,Feb,Covington City,52000
-2021,Feb,Craig County,N/A
+2021,Feb,Craig County,
 2021,Feb,Culpeper County,349950
 2021,Feb,Cumberland County,155950
 2021,Feb,Danville City,94500
-2021,Feb,Dickenson County,N/A
+2021,Feb,Dickenson County,
 2021,Feb,Dinwiddie County,217000
-2021,Feb,Emporia City,N/A
+2021,Feb,Emporia City,
 2021,Feb,Essex County,209275
 2021,Feb,Fairfax City,642944
 2021,Feb,Fairfax County,560000
@@ -8165,7 +8165,7 @@ Year,Month,County_City,Median_Sale_Value
 2021,Feb,Goochland County,359500
 2021,Feb,Grayson County,127000
 2021,Feb,Greene County,342500
-2021,Feb,Greensville County,N/A
+2021,Feb,Greensville County,
 2021,Feb,Halifax County,115000
 2021,Feb,Hampton City,201485
 2021,Feb,Hanover County,341500
@@ -8180,7 +8180,7 @@ Year,Month,County_City,Median_Sale_Value
 2021,Feb,King George County,335000
 2021,Feb,King William County,255292.5
 2021,Feb,Lancaster County,320000
-2021,Feb,Lee County,N/A
+2021,Feb,Lee County,
 2021,Feb,Lexington City,345000
 2021,Feb,Loudoun County,585000
 2021,Feb,Louisa County,282500
@@ -8200,7 +8200,7 @@ Year,Month,County_City,Median_Sale_Value
 2021,Feb,Norfolk City,245000
 2021,Feb,Northampton County,422500
 2021,Feb,Northumberland County,470000
-2021,Feb,Norton City,N/A
+2021,Feb,Norton City,
 2021,Feb,Nottoway County,198500
 2021,Feb,Orange County,312500
 2021,Feb,Page County,239900
@@ -8278,7 +8278,7 @@ Year,Month,County_City,Median_Sale_Value
 2021,Mar,Culpeper County,372500
 2021,Mar,Cumberland County,215000
 2021,Mar,Danville City,102750
-2021,Mar,Dickenson County,N/A
+2021,Mar,Dickenson County,
 2021,Mar,Dinwiddie County,219000
 2021,Mar,Emporia City,85000
 2021,Mar,Essex County,260000
@@ -8313,7 +8313,7 @@ Year,Month,County_City,Median_Sale_Value
 2021,Mar,King George County,387400
 2021,Mar,King William County,249677.5
 2021,Mar,Lancaster County,380000
-2021,Mar,Lee County,N/A
+2021,Mar,Lee County,
 2021,Mar,Lexington City,300000
 2021,Mar,Loudoun County,583317.5
 2021,Mar,Louisa County,281840.5
@@ -8333,7 +8333,7 @@ Year,Month,County_City,Median_Sale_Value
 2021,Mar,Norfolk City,255000
 2021,Mar,Northampton County,382450
 2021,Mar,Northumberland County,245750
-2021,Mar,Norton City,N/A
+2021,Mar,Norton City,
 2021,Mar,Nottoway County,149900
 2021,Mar,Orange County,299000
 2021,Mar,Page County,183590
@@ -8411,9 +8411,9 @@ Year,Month,County_City,Median_Sale_Value
 2021, Apr,Culpeper County,393200
 2021, Apr,Cumberland County,210000
 2021, Apr,Danville City,128500
-2021, Apr,Dickenson County,N/A
+2021, Apr,Dickenson County,
 2021, Apr,Dinwiddie County,237900
-2021, Apr,Emporia City,N/A
+2021, Apr,Emporia City,
 2021, Apr,Essex County,173050
 2021, Apr,Fairfax City,635750
 2021, Apr,Fairfax County,635000
@@ -8446,7 +8446,7 @@ Year,Month,County_City,Median_Sale_Value
 2021, Apr,King George County,348500
 2021, Apr,King William County,269673.5
 2021, Apr,Lancaster County,306500
-2021, Apr,Lee County,N/A
+2021, Apr,Lee County,
 2021, Apr,Lexington City,225000
 2021, Apr,Loudoun County,610000
 2021, Apr,Louisa County,320000
@@ -8466,7 +8466,7 @@ Year,Month,County_City,Median_Sale_Value
 2021, Apr,Norfolk City,265000
 2021, Apr,Northampton County,332500
 2021, Apr,Northumberland County,289400
-2021, Apr,Norton City,N/A
+2021, Apr,Norton City,
 2021, Apr,Nottoway County,203450
 2021, Apr,Orange County,330500
 2021, Apr,Page County,243500
@@ -8546,7 +8546,7 @@ Year,Month,County_City,Median_Sale_Value
 2021, May,Danville City,101000
 2021, May,Dickenson County,5500
 2021, May,Dinwiddie County,239500
-2021, May,Emporia City,N/A
+2021, May,Emporia City,
 2021, May,Essex County,274725
 2021, May,Fairfax City,703000
 2021, May,Fairfax County,655000
@@ -8579,7 +8579,7 @@ Year,Month,County_City,Median_Sale_Value
 2021, May,King George County,370200
 2021, May,King William County,288500
 2021, May,Lancaster County,315000
-2021, May,Lee County,N/A
+2021, May,Lee County,
 2021, May,Lexington City,297500
 2021, May,Loudoun County,630000
 2021, May,Louisa County,322000
@@ -8641,7 +8641,7 @@ Year,Month,County_City,Median_Sale_Value
 2021, May,Westmoreland County,245950
 2021, May,Williamsburg City,359900
 2021, May,Winchester City,249900
-2021, May,Wise County,N/A
+2021, May,Wise County,
 2021, May,Wythe County,181500
 2021, May,York County,322888
 2021, Jun,Accomack County,218250
@@ -8677,9 +8677,9 @@ Year,Month,County_City,Median_Sale_Value
 2021, Jun,Culpeper County,420000
 2021, Jun,Cumberland County,249900
 2021, Jun,Danville City,132500
-2021, Jun,Dickenson County,N/A
+2021, Jun,Dickenson County,
 2021, Jun,Dinwiddie County,263000
-2021, Jun,Emporia City,N/A
+2021, Jun,Emporia City,
 2021, Jun,Essex County,210000
 2021, Jun,Fairfax City,640000
 2021, Jun,Fairfax County,650000
@@ -8732,7 +8732,7 @@ Year,Month,County_City,Median_Sale_Value
 2021, Jun,Norfolk City,275000
 2021, Jun,Northampton County,396500
 2021, Jun,Northumberland County,305000
-2021, Jun,Norton City,N/A
+2021, Jun,Norton City,
 2021, Jun,Nottoway County,190000
 2021, Jun,Orange County,350000
 2021, Jun,Page County,220500
@@ -8810,9 +8810,9 @@ Year,Month,County_City,Median_Sale_Value
 2021, Jul,Culpeper County,393000
 2021, Jul,Cumberland County,195000
 2021, Jul,Danville City,145000
-2021, Jul,Dickenson County,N/A
+2021, Jul,Dickenson County,
 2021, Jul,Dinwiddie County,249925
-2021, Jul,Emporia City,N/A
+2021, Jul,Emporia City,
 2021, Jul,Essex County,234000
 2021, Jul,Fairfax City,725000
 2021, Jul,Fairfax County,635000
@@ -8865,7 +8865,7 @@ Year,Month,County_City,Median_Sale_Value
 2021, Jul,Norfolk City,280000
 2021, Jul,Northampton County,365000
 2021, Jul,Northumberland County,215000
-2021, Jul,Norton City,N/A
+2021, Jul,Norton City,
 2021, Jul,Nottoway County,128000
 2021, Jul,Orange County,350000
 2021, Jul,Page County,253000
@@ -8889,7 +8889,7 @@ Year,Month,County_City,Median_Sale_Value
 2021, Jul,Rockingham County,281750
 2021, Jul,Russell County,177500
 2021, Jul,Salem City,209000
-2021, Jul,Scott County,N/A
+2021, Jul,Scott County,
 2021, Jul,Shenandoah County,276500
 2021, Jul,Smyth County,145000
 2021, Jul,Southampton County,196000
@@ -8943,9 +8943,9 @@ Year,Month,County_City,Median_Sale_Value
 2021, Aug,Culpeper County,405000
 2021, Aug,Cumberland County,215000
 2021, Aug,Danville City,139900
-2021, Aug,Dickenson County,N/A
+2021, Aug,Dickenson County,
 2021, Aug,Dinwiddie County,243750
-2021, Aug,Emporia City,N/A
+2021, Aug,Emporia City,
 2021, Aug,Essex County,256000
 2021, Aug,Fairfax City,600000
 2021, Aug,Fairfax County,602500
@@ -8963,7 +8963,7 @@ Year,Month,County_City,Median_Sale_Value
 2021, Aug,Goochland County,457975
 2021, Aug,Grayson County,140500
 2021, Aug,Greene County,324900
-2021, Aug,Greensville County,N/A
+2021, Aug,Greensville County,
 2021, Aug,Halifax County,167900
 2021, Aug,Hampton City,231849
 2021, Aug,Hanover County,365000
@@ -8978,7 +8978,7 @@ Year,Month,County_City,Median_Sale_Value
 2021, Aug,King George County,360000
 2021, Aug,King William County,270000
 2021, Aug,Lancaster County,263500
-2021, Aug,Lee County,N/A
+2021, Aug,Lee County,
 2021, Aug,Lexington City,236000
 2021, Aug,Loudoun County,615500
 2021, Aug,Louisa County,299500
@@ -8998,7 +8998,7 @@ Year,Month,County_City,Median_Sale_Value
 2021, Aug,Norfolk City,270000
 2021, Aug,Northampton County,439900
 2021, Aug,Northumberland County,301000
-2021, Aug,Norton City,N/A
+2021, Aug,Norton City,
 2021, Aug,Nottoway County,172500
 2021, Aug,Orange County,340000
 2021, Aug,Page County,207750
@@ -9022,7 +9022,7 @@ Year,Month,County_City,Median_Sale_Value
 2021, Aug,Rockingham County,295000
 2021, Aug,Russell County,167700
 2021, Aug,Salem City,227000
-2021, Aug,Scott County,N/A
+2021, Aug,Scott County,
 2021, Aug,Shenandoah County,271000
 2021, Aug,Smyth County,120000
 2021, Aug,Southampton County,215000
@@ -9057,7 +9057,7 @@ Year,Month,County_City,Median_Sale_Value
 2021, Sep,Bland County,272500
 2021, Sep,Botetourt County,304950
 2021, Sep,Bristol City,148000
-2021, Sep,Brunswick County,N/A
+2021, Sep,Brunswick County,
 2021, Sep,Buchanan County,104950
 2021, Sep,Buckingham County,227000
 2021, Sep,Buena Vista City,159000
@@ -9076,9 +9076,9 @@ Year,Month,County_City,Median_Sale_Value
 2021, Sep,Culpeper County,410000
 2021, Sep,Cumberland County,200000
 2021, Sep,Danville City,131500
-2021, Sep,Dickenson County,N/A
+2021, Sep,Dickenson County,
 2021, Sep,Dinwiddie County,237000
-2021, Sep,Emporia City,N/A
+2021, Sep,Emporia City,
 2021, Sep,Essex County,331925
 2021, Sep,Fairfax City,565000
 2021, Sep,Fairfax County,598900
@@ -9111,7 +9111,7 @@ Year,Month,County_City,Median_Sale_Value
 2021, Sep,King George County,370000
 2021, Sep,King William County,270500
 2021, Sep,Lancaster County,336600
-2021, Sep,Lee County,N/A
+2021, Sep,Lee County,
 2021, Sep,Lexington City,294000
 2021, Sep,Loudoun County,600000
 2021, Sep,Louisa County,339900
@@ -9131,7 +9131,7 @@ Year,Month,County_City,Median_Sale_Value
 2021, Sep,Norfolk City,265000
 2021, Sep,Northampton County,425000
 2021, Sep,Northumberland County,405000
-2021, Sep,Norton City,N/A
+2021, Sep,Norton City,
 2021, Sep,Nottoway County,169250
 2021, Sep,Orange County,335000
 2021, Sep,Page County,271500
@@ -9173,7 +9173,7 @@ Year,Month,County_City,Median_Sale_Value
 2021, Sep,Westmoreland County,284950
 2021, Sep,Williamsburg City,293500
 2021, Sep,Winchester City,295000
-2021, Sep,Wise County,N/A
+2021, Sep,Wise County,
 2021, Sep,Wythe County,220000
 2021, Sep,York County,340000
 2021, Oct,Accomack County,250000
@@ -9209,9 +9209,9 @@ Year,Month,County_City,Median_Sale_Value
 2021, Oct,Culpeper County,399000
 2021, Oct,Cumberland County,130000
 2021, Oct,Danville City,112500
-2021, Oct,Dickenson County,N/A
+2021, Oct,Dickenson County,
 2021, Oct,Dinwiddie County,260000
-2021, Oct,Emporia City,N/A
+2021, Oct,Emporia City,
 2021, Oct,Essex County,260077
 2021, Oct,Fairfax City,612500
 2021, Oct,Fairfax County,620000
@@ -9229,7 +9229,7 @@ Year,Month,County_City,Median_Sale_Value
 2021, Oct,Goochland County,474975
 2021, Oct,Grayson County,259900
 2021, Oct,Greene County,329900
-2021, Oct,Greensville County,N/A
+2021, Oct,Greensville County,
 2021, Oct,Halifax County,139000
 2021, Oct,Hampton City,230000
 2021, Oct,Hanover County,387495
@@ -9264,7 +9264,7 @@ Year,Month,County_City,Median_Sale_Value
 2021, Oct,Norfolk City,269900
 2021, Oct,Northampton County,375000
 2021, Oct,Northumberland County,345000
-2021, Oct,Norton City,N/A
+2021, Oct,Norton City,
 2021, Oct,Nottoway County,171000
 2021, Oct,Orange County,347250
 2021, Oct,Page County,224750
@@ -9288,7 +9288,7 @@ Year,Month,County_City,Median_Sale_Value
 2021, Oct,Rockingham County,275900
 2021, Oct,Russell County,230000
 2021, Oct,Salem City,235000
-2021, Oct,Scott County,N/A
+2021, Oct,Scott County,
 2021, Oct,Shenandoah County,265000
 2021, Oct,Smyth County,128900
 2021, Oct,Southampton County,254000
@@ -9342,7 +9342,7 @@ Year,Month,County_City,Median_Sale_Value
 2021, Nov,Culpeper County,392000
 2021, Nov,Cumberland County,144000
 2021, Nov,Danville City,139900
-2021, Nov,Dickenson County,N/A
+2021, Nov,Dickenson County,
 2021, Nov,Dinwiddie County,248500
 2021, Nov,Emporia City,120000
 2021, Nov,Essex County,246470
@@ -9369,7 +9369,7 @@ Year,Month,County_City,Median_Sale_Value
 2021, Nov,Harrisonburg City,217500
 2021, Nov,Henrico County,314995
 2021, Nov,Henry County,143900
-2021, Nov,Highland County,N/A
+2021, Nov,Highland County,
 2021, Nov,Hopewell City,160100
 2021, Nov,Isle of Wight County,328000
 2021, Nov,James City County,361205
@@ -9377,7 +9377,7 @@ Year,Month,County_City,Median_Sale_Value
 2021, Nov,King George County,411450
 2021, Nov,King William County,277475
 2021, Nov,Lancaster County,340000
-2021, Nov,Lee County,N/A
+2021, Nov,Lee County,
 2021, Nov,Lexington City,159000
 2021, Nov,Loudoun County,599950
 2021, Nov,Louisa County,322975
@@ -9397,7 +9397,7 @@ Year,Month,County_City,Median_Sale_Value
 2021, Nov,Norfolk City,267500
 2021, Nov,Northampton County,325000
 2021, Nov,Northumberland County,412500
-2021, Nov,Norton City,N/A
+2021, Nov,Norton City,
 2021, Nov,Nottoway County,215500
 2021, Nov,Orange County,329900
 2021, Nov,Page County,234900
@@ -9421,7 +9421,7 @@ Year,Month,County_City,Median_Sale_Value
 2021, Nov,Rockingham County,279000
 2021, Nov,Russell County,131500
 2021, Nov,Salem City,247475
-2021, Nov,Scott County,N/A
+2021, Nov,Scott County,
 2021, Nov,Shenandoah County,244950
 2021, Nov,Smyth County,140000
 2021, Nov,Southampton County,207500
@@ -9439,7 +9439,7 @@ Year,Month,County_City,Median_Sale_Value
 2021, Nov,Westmoreland County,294900
 2021, Nov,Williamsburg City,397590
 2021, Nov,Winchester City,275000
-2021, Nov,Wise County,N/A
+2021, Nov,Wise County,
 2021, Nov,Wythe County,185000
 2021, Nov,York County,350000
 2021, Dec,Accomack County,266625
@@ -9475,7 +9475,7 @@ Year,Month,County_City,Median_Sale_Value
 2021, Dec,Culpeper County,399900
 2021, Dec,Cumberland County,205000
 2021, Dec,Danville City,117000
-2021, Dec,Dickenson County,N/A
+2021, Dec,Dickenson County,
 2021, Dec,Dinwiddie County,235000
 2021, Dec,Emporia City,222500
 2021, Dec,Essex County,215000
@@ -9510,7 +9510,7 @@ Year,Month,County_City,Median_Sale_Value
 2021, Dec,King George County,383120
 2021, Dec,King William County,264250
 2021, Dec,Lancaster County,290000
-2021, Dec,Lee County,N/A
+2021, Dec,Lee County,
 2021, Dec,Lexington City,245000
 2021, Dec,Loudoun County,625000
 2021, Dec,Louisa County,335000
@@ -9530,7 +9530,7 @@ Year,Month,County_City,Median_Sale_Value
 2021, Dec,Norfolk City,258950
 2021, Dec,Northampton County,330000
 2021, Dec,Northumberland County,429950
-2021, Dec,Norton City,N/A
+2021, Dec,Norton City,
 2021, Dec,Nottoway County,133707.5
 2021, Dec,Orange County,359900
 2021, Dec,Page County,269000
@@ -9584,7 +9584,7 @@ Year,Month,County_City,Median_Sale_Value
 2022, Jan,Appomattox County,254900
 2022, Jan,Arlington County,622500
 2022, Jan,Augusta County,283500
-2022, Jan,Bath County,N/A
+2022, Jan,Bath County,
 2022, Jan,Bedford County,317900
 2022, Jan,Bland County,379900
 2022, Jan,Botetourt County,325000
@@ -9608,9 +9608,9 @@ Year,Month,County_City,Median_Sale_Value
 2022, Jan,Culpeper County,410000
 2022, Jan,Cumberland County,307250
 2022, Jan,Danville City,149500
-2022, Jan,Dickenson County,N/A
+2022, Jan,Dickenson County,
 2022, Jan,Dinwiddie County,269000
-2022, Jan,Emporia City,N/A
+2022, Jan,Emporia City,
 2022, Jan,Essex County,307500
 2022, Jan,Fairfax City,585000
 2022, Jan,Fairfax County,572500
@@ -9628,7 +9628,7 @@ Year,Month,County_City,Median_Sale_Value
 2022, Jan,Goochland County,419000
 2022, Jan,Grayson County,95000
 2022, Jan,Greene County,366000
-2022, Jan,Greensville County,N/A
+2022, Jan,Greensville County,
 2022, Jan,Halifax County,141500
 2022, Jan,Hampton City,230000
 2022, Jan,Hanover County,380000
@@ -9663,7 +9663,7 @@ Year,Month,County_City,Median_Sale_Value
 2022, Jan,Norfolk City,267500
 2022, Jan,Northampton County,297500
 2022, Jan,Northumberland County,449250
-2022, Jan,Norton City,N/A
+2022, Jan,Norton City,
 2022, Jan,Nottoway County,267000
 2022, Jan,Orange County,350000
 2022, Jan,Page County,264900
@@ -9705,7 +9705,7 @@ Year,Month,County_City,Median_Sale_Value
 2022, Jan,Westmoreland County,272000
 2022, Jan,Williamsburg City,392000
 2022, Jan,Winchester City,267000
-2022, Jan,Wise County,N/A
+2022, Jan,Wise County,
 2022, Jan,Wythe County,191900
 2022, Jan,York County,331101
 2022, Feb,Accomack County,200000
@@ -9723,7 +9723,7 @@ Year,Month,County_City,Median_Sale_Value
 2022, Feb,Botetourt County,280000
 2022, Feb,Bristol City,195000
 2022, Feb,Brunswick County,230000
-2022, Feb,Buchanan County,N/A
+2022, Feb,Buchanan County,
 2022, Feb,Buckingham County,310000
 2022, Feb,Buena Vista City,111250
 2022, Feb,Campbell County,230000
@@ -9741,9 +9741,9 @@ Year,Month,County_City,Median_Sale_Value
 2022, Feb,Culpeper County,370000
 2022, Feb,Cumberland County,265000
 2022, Feb,Danville City,122000
-2022, Feb,Dickenson County,N/A
+2022, Feb,Dickenson County,
 2022, Feb,Dinwiddie County,240750
-2022, Feb,Emporia City,N/A
+2022, Feb,Emporia City,
 2022, Feb,Essex County,260000
 2022, Feb,Fairfax City,575000
 2022, Feb,Fairfax County,615750
@@ -9796,7 +9796,7 @@ Year,Month,County_City,Median_Sale_Value
 2022, Feb,Norfolk City,265000
 2022, Feb,Northampton County,477290
 2022, Feb,Northumberland County,375000
-2022, Feb,Norton City,N/A
+2022, Feb,Norton City,
 2022, Feb,Nottoway County,120000
 2022, Feb,Orange County,412750
 2022, Feb,Page County,267500
@@ -9838,7 +9838,7 @@ Year,Month,County_City,Median_Sale_Value
 2022, Feb,Westmoreland County,280000
 2022, Feb,Williamsburg City,194950
 2022, Feb,Winchester City,297000
-2022, Feb,Wise County,N/A
+2022, Feb,Wise County,
 2022, Feb,Wythe County,175000
 2022, Feb,York County,345905
 2022, Mar,Accomack County,250000
@@ -9874,9 +9874,9 @@ Year,Month,County_City,Median_Sale_Value
 2022, Mar,Culpeper County,415000
 2022, Mar,Cumberland County,214000
 2022, Mar,Danville City,117500
-2022, Mar,Dickenson County,N/A
+2022, Mar,Dickenson County,
 2022, Mar,Dinwiddie County,232500
-2022, Mar,Emporia City,N/A
+2022, Mar,Emporia City,
 2022, Mar,Essex County,213500
 2022, Mar,Fairfax City,625000
 2022, Mar,Fairfax County,660000
@@ -9894,7 +9894,7 @@ Year,Month,County_City,Median_Sale_Value
 2022, Mar,Goochland County,558713
 2022, Mar,Grayson County,176000
 2022, Mar,Greene County,330000
-2022, Mar,Greensville County,N/A
+2022, Mar,Greensville County,
 2022, Mar,Halifax County,151000
 2022, Mar,Hampton City,240000
 2022, Mar,Hanover County,410000
@@ -9909,7 +9909,7 @@ Year,Month,County_City,Median_Sale_Value
 2022, Mar,King George County,408000
 2022, Mar,King William County,280000
 2022, Mar,Lancaster County,357000
-2022, Mar,Lee County,N/A
+2022, Mar,Lee County,
 2022, Mar,Lexington City,380000
 2022, Mar,Loudoun County,680000
 2022, Mar,Louisa County,359000
@@ -9929,7 +9929,7 @@ Year,Month,County_City,Median_Sale_Value
 2022, Mar,Norfolk City,279100
 2022, Mar,Northampton County,440000
 2022, Mar,Northumberland County,463750
-2022, Mar,Norton City,N/A
+2022, Mar,Norton City,
 2022, Mar,Nottoway County,187700
 2022, Mar,Orange County,330000
 2022, Mar,Page County,227500
@@ -10007,7 +10007,7 @@ Year,Month,County_City,Median_Sale_Value
 2022, Apr,Culpeper County,410000
 2022, Apr,Cumberland County,200000
 2022, Apr,Danville City,122850
-2022, Apr,Dickenson County,N/A
+2022, Apr,Dickenson County,
 2022, Apr,Dinwiddie County,245000
 2022, Apr,Emporia City,140000
 2022, Apr,Essex County,240000
@@ -10042,7 +10042,7 @@ Year,Month,County_City,Median_Sale_Value
 2022, Apr,King George County,405000
 2022, Apr,King William County,301500
 2022, Apr,Lancaster County,505000
-2022, Apr,Lee County,N/A
+2022, Apr,Lee County,
 2022, Apr,Lexington City,231250
 2022, Apr,Loudoun County,720000
 2022, Apr,Louisa County,353000
@@ -10062,7 +10062,7 @@ Year,Month,County_City,Median_Sale_Value
 2022, Apr,Norfolk City,285000
 2022, Apr,Northampton County,571079
 2022, Apr,Northumberland County,412000
-2022, Apr,Norton City,N/A
+2022, Apr,Norton City,
 2022, Apr,Nottoway County,175000
 2022, Apr,Orange County,350000
 2022, Apr,Page County,242950
@@ -10142,7 +10142,7 @@ Year,Month,County_City,Median_Sale_Value
 2022, May,Danville City,160000
 2022, May,Dickenson County,350000
 2022, May,Dinwiddie County,257000
-2022, May,Emporia City,N/A
+2022, May,Emporia City,
 2022, May,Essex County,267450
 2022, May,Fairfax City,715000
 2022, May,Fairfax County,715000
@@ -10167,7 +10167,7 @@ Year,Month,County_City,Median_Sale_Value
 2022, May,Harrisonburg City,290000
 2022, May,Henrico County,365000
 2022, May,Henry County,163500
-2022, May,Highland County,N/A
+2022, May,Highland County,
 2022, May,Hopewell City,187500
 2022, May,Isle of Wight County,412500
 2022, May,James City County,450000
@@ -10175,7 +10175,7 @@ Year,Month,County_City,Median_Sale_Value
 2022, May,King George County,385000
 2022, May,King William County,329000
 2022, May,Lancaster County,240000
-2022, May,Lee County,N/A
+2022, May,Lee County,
 2022, May,Lexington City,367500
 2022, May,Loudoun County,699950
 2022, May,Louisa County,371400
@@ -10195,7 +10195,7 @@ Year,Month,County_City,Median_Sale_Value
 2022, May,Norfolk City,285000
 2022, May,Northampton County,520000
 2022, May,Northumberland County,396900
-2022, May,Norton City,N/A
+2022, May,Norton City,
 2022, May,Nottoway County,238500
 2022, May,Orange County,334900
 2022, May,Page County,252000
@@ -10275,7 +10275,7 @@ Year,Month,County_City,Median_Sale_Value
 2022, Jun,Danville City,150000
 2022, Jun,Dickenson County,137450
 2022, Jun,Dinwiddie County,273500
-2022, Jun,Emporia City,N/A
+2022, Jun,Emporia City,
 2022, Jun,Essex County,275000
 2022, Jun,Fairfax City,722500
 2022, Jun,Fairfax County,689000
@@ -10308,7 +10308,7 @@ Year,Month,County_City,Median_Sale_Value
 2022, Jun,King George County,454950
 2022, Jun,King William County,310000
 2022, Jun,Lancaster County,500000
-2022, Jun,Lee County,N/A
+2022, Jun,Lee County,
 2022, Jun,Lexington City,450400
 2022, Jun,Loudoun County,695000
 2022, Jun,Louisa County,375000
@@ -10328,7 +10328,7 @@ Year,Month,County_City,Median_Sale_Value
 2022, Jun,Norfolk City,296000
 2022, Jun,Northampton County,445000
 2022, Jun,Northumberland County,390000
-2022, Jun,Norton City,N/A
+2022, Jun,Norton City,
 2022, Jun,Nottoway County,290000
 2022, Jun,Orange County,374000
 2022, Jun,Page County,267500
@@ -10352,7 +10352,7 @@ Year,Month,County_City,Median_Sale_Value
 2022, Jun,Rockingham County,297387.5
 2022, Jun,Russell County,148100
 2022, Jun,Salem City,280000
-2022, Jun,Scott County,N/A
+2022, Jun,Scott County,
 2022, Jun,Shenandoah County,282500
 2022, Jun,Smyth County,147450
 2022, Jun,Southampton County,280500
@@ -10406,9 +10406,9 @@ Year,Month,County_City,Median_Sale_Value
 2022, Jul,Culpeper County,417500
 2022, Jul,Cumberland County,265000
 2022, Jul,Danville City,152500
-2022, Jul,Dickenson County,N/A
+2022, Jul,Dickenson County,
 2022, Jul,Dinwiddie County,255000
-2022, Jul,Emporia City,N/A
+2022, Jul,Emporia City,
 2022, Jul,Essex County,252000
 2022, Jul,Fairfax City,672500
 2022, Jul,Fairfax County,649500
@@ -10461,7 +10461,7 @@ Year,Month,County_City,Median_Sale_Value
 2022, Jul,Norfolk City,290000
 2022, Jul,Northampton County,420000
 2022, Jul,Northumberland County,340000
-2022, Jul,Norton City,N/A
+2022, Jul,Norton City,
 2022, Jul,Nottoway County,196300
 2022, Jul,Orange County,329900
 2022, Jul,Page County,255000
@@ -10535,13 +10535,13 @@ Year,Month,County_City,Median_Sale_Value
 2022, Aug,Clarke County,472000
 2022, Aug,Colonial Heights City,250000
 2022, Aug,Covington City,194950
-2022, Aug,Craig County,N/A
+2022, Aug,Craig County,
 2022, Aug,Culpeper County,395000
 2022, Aug,Cumberland County,240500
 2022, Aug,Danville City,115000
 2022, Aug,Dickenson County,85000
 2022, Aug,Dinwiddie County,249000
-2022, Aug,Emporia City,N/A
+2022, Aug,Emporia City,
 2022, Aug,Essex County,280200
 2022, Aug,Fairfax City,600000
 2022, Aug,Fairfax County,635000
@@ -10559,7 +10559,7 @@ Year,Month,County_City,Median_Sale_Value
 2022, Aug,Goochland County,505000
 2022, Aug,Grayson County,140000
 2022, Aug,Greene County,332500
-2022, Aug,Greensville County,N/A
+2022, Aug,Greensville County,
 2022, Aug,Halifax County,159000
 2022, Aug,Hampton City,239450
 2022, Aug,Hanover County,435000
@@ -10574,7 +10574,7 @@ Year,Month,County_City,Median_Sale_Value
 2022, Aug,King George County,420000
 2022, Aug,King William County,349500
 2022, Aug,Lancaster County,342500
-2022, Aug,Lee County,N/A
+2022, Aug,Lee County,
 2022, Aug,Lexington City,329350
 2022, Aug,Loudoun County,664750
 2022, Aug,Louisa County,391855
@@ -10594,7 +10594,7 @@ Year,Month,County_City,Median_Sale_Value
 2022, Aug,Norfolk City,280500
 2022, Aug,Northampton County,550635
 2022, Aug,Northumberland County,399000
-2022, Aug,Norton City,N/A
+2022, Aug,Norton City,
 2022, Aug,Nottoway County,130000
 2022, Aug,Orange County,380000
 2022, Aug,Page County,289000
@@ -10618,7 +10618,7 @@ Year,Month,County_City,Median_Sale_Value
 2022, Aug,Rockingham County,322487.5
 2022, Aug,Russell County,152000
 2022, Aug,Salem City,226750
-2022, Aug,Scott County,N/A
+2022, Aug,Scott County,
 2022, Aug,Shenandoah County,289500
 2022, Aug,Smyth County,140775
 2022, Aug,Southampton County,265000
@@ -10672,9 +10672,9 @@ Year,Month,County_City,Median_Sale_Value
 2022, Sep,Culpeper County,425000
 2022, Sep,Cumberland County,292500
 2022, Sep,Danville City,163500
-2022, Sep,Dickenson County,N/A
+2022, Sep,Dickenson County,
 2022, Sep,Dinwiddie County,295000
-2022, Sep,Emporia City,N/A
+2022, Sep,Emporia City,
 2022, Sep,Essex County,265000
 2022, Sep,Fairfax City,660000
 2022, Sep,Fairfax County,631250
@@ -10727,7 +10727,7 @@ Year,Month,County_City,Median_Sale_Value
 2022, Sep,Norfolk City,275000
 2022, Sep,Northampton County,275000
 2022, Sep,Northumberland County,420000
-2022, Sep,Norton City,N/A
+2022, Sep,Norton City,
 2022, Sep,Nottoway County,140000
 2022, Sep,Orange County,350000
 2022, Sep,Page County,270000
@@ -10751,7 +10751,7 @@ Year,Month,County_City,Median_Sale_Value
 2022, Sep,Rockingham County,308000
 2022, Sep,Russell County,137200
 2022, Sep,Salem City,214000
-2022, Sep,Scott County,N/A
+2022, Sep,Scott County,
 2022, Sep,Shenandoah County,295000
 2022, Sep,Smyth County,135000
 2022, Sep,Southampton County,263000
@@ -10769,9 +10769,9 @@ Year,Month,County_City,Median_Sale_Value
 2022, Sep,Westmoreland County,289950
 2022, Sep,Williamsburg City,326000
 2022, Sep,Winchester City,317000
-2022, Sep,Wise County,N/A
+2022, Sep,Wise County,
 2022, Sep,Wythe County,183000
-2022, Sep,York County,N/A
+2022, Sep,York County,
 2022, Oct,Accomack County,225000
 2022, Oct,Albemarle County,456172
 2022, Oct,Alexandria City,699000
@@ -10805,9 +10805,9 @@ Year,Month,County_City,Median_Sale_Value
 2022, Oct,Culpeper County,435000
 2022, Oct,Cumberland County,217299.5
 2022, Oct,Danville City,150500
-2022, Oct,Dickenson County,N/A
+2022, Oct,Dickenson County,
 2022, Oct,Dinwiddie County,275000
-2022, Oct,Emporia City,N/A
+2022, Oct,Emporia City,
 2022, Oct,Essex County,253700
 2022, Oct,Fairfax City,722500
 2022, Oct,Fairfax County,640000
@@ -10840,7 +10840,7 @@ Year,Month,County_City,Median_Sale_Value
 2022, Oct,King George County,422500
 2022, Oct,King William County,320000
 2022, Oct,Lancaster County,398450
-2022, Oct,Lee County,N/A
+2022, Oct,Lee County,
 2022, Oct,Lexington City,337400
 2022, Oct,Loudoun County,655000
 2022, Oct,Louisa County,356475
@@ -10884,7 +10884,7 @@ Year,Month,County_City,Median_Sale_Value
 2022, Oct,Rockingham County,321000
 2022, Oct,Russell County,202516
 2022, Oct,Salem City,277500
-2022, Oct,Scott County,N/A
+2022, Oct,Scott County,
 2022, Oct,Shenandoah County,285000
 2022, Oct,Smyth County,144825
 2022, Oct,Southampton County,227500
@@ -10938,9 +10938,9 @@ Year,Month,County_City,Median_Sale_Value
 2022, Nov,Culpeper County,385000
 2022, Nov,Cumberland County,131000
 2022, Nov,Danville City,137450
-2022, Nov,Dickenson County,N/A
+2022, Nov,Dickenson County,
 2022, Nov,Dinwiddie County,241697.5
-2022, Nov,Emporia City,N/A
+2022, Nov,Emporia City,
 2022, Nov,Essex County,180000
 2022, Nov,Fairfax City,664900
 2022, Nov,Fairfax County,625000
@@ -10973,7 +10973,7 @@ Year,Month,County_City,Median_Sale_Value
 2022, Nov,King George County,455035
 2022, Nov,King William County,345000
 2022, Nov,Lancaster County,370000
-2022, Nov,Lee County,N/A
+2022, Nov,Lee County,
 2022, Nov,Lexington City,335000
 2022, Nov,Loudoun County,637500
 2022, Nov,Louisa County,331625
@@ -10993,7 +10993,7 @@ Year,Month,County_City,Median_Sale_Value
 2022, Nov,Norfolk City,275975
 2022, Nov,Northampton County,434800
 2022, Nov,Northumberland County,305000
-2022, Nov,Norton City,N/A
+2022, Nov,Norton City,
 2022, Nov,Nottoway County,149500
 2022, Nov,Orange County,320000
 2022, Nov,Page County,230000
@@ -11035,7 +11035,7 @@ Year,Month,County_City,Median_Sale_Value
 2022, Nov,Westmoreland County,285000
 2022, Nov,Williamsburg City,417115
 2022, Nov,Winchester City,337500
-2022, Nov,Wise County,N/A
+2022, Nov,Wise County,
 2022, Nov,Wythe County,257500
 2022, Nov,York County,348365
 2022, Dec,Accomack County,208000
@@ -11049,7 +11049,7 @@ Year,Month,County_City,Median_Sale_Value
 2022, Dec,Augusta County,328000
 2022, Dec,Bath County,380000
 2022, Dec,Bedford County,380000
-2022, Dec,Bland County,N/A
+2022, Dec,Bland County,
 2022, Dec,Botetourt County,400000
 2022, Dec,Bristol City,117250
 2022, Dec,Brunswick County,185000
@@ -11073,7 +11073,7 @@ Year,Month,County_City,Median_Sale_Value
 2022, Dec,Danville City,109000
 2022, Dec,Dickenson County,132900
 2022, Dec,Dinwiddie County,249950
-2022, Dec,Emporia City,N/A
+2022, Dec,Emporia City,
 2022, Dec,Essex County,189500
 2022, Dec,Fairfax City,553410
 2022, Dec,Fairfax County,610000
@@ -11106,7 +11106,7 @@ Year,Month,County_City,Median_Sale_Value
 2022, Dec,King George County,417500
 2022, Dec,King William County,364052.5
 2022, Dec,Lancaster County,637910
-2022, Dec,Lee County,N/A
+2022, Dec,Lee County,
 2022, Dec,Lexington City,322500
 2022, Dec,Loudoun County,620000
 2022, Dec,Louisa County,375000
@@ -11126,7 +11126,7 @@ Year,Month,County_City,Median_Sale_Value
 2022, Dec,Norfolk City,279950
 2022, Dec,Northampton County,468912.5
 2022, Dec,Northumberland County,356750
-2022, Dec,Norton City,N/A
+2022, Dec,Norton City,
 2022, Dec,Nottoway County,165000
 2022, Dec,Orange County,305000
 2022, Dec,Page County,237890
@@ -11150,7 +11150,7 @@ Year,Month,County_City,Median_Sale_Value
 2022, Dec,Rockingham County,305950
 2022, Dec,Russell County,147500
 2022, Dec,Salem City,289975
-2022, Dec,Scott County,N/A
+2022, Dec,Scott County,
 2022, Dec,Shenandoah County,304500
 2022, Dec,Smyth County,142000
 2022, Dec,Southampton County,218500
@@ -11192,7 +11192,7 @@ Year,Month,County_City,Median_Sale_Value
 2023, Jan,Campbell County,226500
 2023, Jan,Caroline County,373000
 2023, Jan,Carroll County,175000
-2023, Jan,Charles City County,N/A
+2023, Jan,Charles City County,
 2023, Jan,Charlotte County,260000
 2023, Jan,Charlottesville City,425000
 2023, Jan,Chesapeake City,340000
@@ -11204,9 +11204,9 @@ Year,Month,County_City,Median_Sale_Value
 2023, Jan,Culpeper County,415000
 2023, Jan,Cumberland County,262500
 2023, Jan,Danville City,150600
-2023, Jan,Dickenson County,N/A
+2023, Jan,Dickenson County,
 2023, Jan,Dinwiddie County,250000
-2023, Jan,Emporia City,N/A
+2023, Jan,Emporia City,
 2023, Jan,Essex County,211750
 2023, Jan,Fairfax City,584900
 2023, Jan,Fairfax County,610000
@@ -11224,7 +11224,7 @@ Year,Month,County_City,Median_Sale_Value
 2023, Jan,Goochland County,549935
 2023, Jan,Grayson County,140000
 2023, Jan,Greene County,430000
-2023, Jan,Greensville County,N/A
+2023, Jan,Greensville County,
 2023, Jan,Halifax County,285500
 2023, Jan,Hampton City,250000
 2023, Jan,Hanover County,425000
@@ -11239,7 +11239,7 @@ Year,Month,County_City,Median_Sale_Value
 2023, Jan,King George County,400000
 2023, Jan,King William County,315000
 2023, Jan,Lancaster County,259000
-2023, Jan,Lee County,N/A
+2023, Jan,Lee County,
 2023, Jan,Lexington City,257000
 2023, Jan,Loudoun County,658456.5
 2023, Jan,Louisa County,354950
@@ -11259,7 +11259,7 @@ Year,Month,County_City,Median_Sale_Value
 2023, Jan,Norfolk City,270000
 2023, Jan,Northampton County,384950
 2023, Jan,Northumberland County,285000
-2023, Jan,Norton City,N/A
+2023, Jan,Norton City,
 2023, Jan,Nottoway County,163000
 2023, Jan,Orange County,382500
 2023, Jan,Page County,247500
@@ -11283,7 +11283,7 @@ Year,Month,County_City,Median_Sale_Value
 2023, Jan,Rockingham County,311500
 2023, Jan,Russell County,245000
 2023, Jan,Salem City,272000
-2023, Jan,Scott County,N/A
+2023, Jan,Scott County,
 2023, Jan,Shenandoah County,277450
 2023, Jan,Smyth County,154900
 2023, Jan,Southampton County,290000
@@ -11301,7 +11301,7 @@ Year,Month,County_City,Median_Sale_Value
 2023, Jan,Westmoreland County,268950
 2023, Jan,Williamsburg City,315000
 2023, Jan,Winchester City,299950
-2023, Jan,Wise County,N/A
+2023, Jan,Wise County,
 2023, Jan,Wythe County,182250
 2023, Jan,York County,415000
 2023, Feb,Accomack County,294750
@@ -11357,7 +11357,7 @@ Year,Month,County_City,Median_Sale_Value
 2023, Feb,Goochland County,572915
 2023, Feb,Grayson County,95000
 2023, Feb,Greene County,399950
-2023, Feb,Greensville County,N/A
+2023, Feb,Greensville County,
 2023, Feb,Halifax County,210000
 2023, Feb,Hampton City,241500
 2023, Feb,Hanover County,450000
@@ -11372,7 +11372,7 @@ Year,Month,County_City,Median_Sale_Value
 2023, Feb,King George County,444500
 2023, Feb,King William County,314999.5
 2023, Feb,Lancaster County,360000
-2023, Feb,Lee County,N/A
+2023, Feb,Lee County,
 2023, Feb,Lexington City,289000
 2023, Feb,Loudoun County,630000
 2023, Feb,Louisa County,385745
@@ -11392,7 +11392,7 @@ Year,Month,County_City,Median_Sale_Value
 2023, Feb,Norfolk City,286500
 2023, Feb,Northampton County,255000
 2023, Feb,Northumberland County,345000
-2023, Feb,Norton City,N/A
+2023, Feb,Norton City,
 2023, Feb,Nottoway County,91950
 2023, Feb,Orange County,370000
 2023, Feb,Page County,236500
@@ -11409,14 +11409,14 @@ Year,Month,County_City,Median_Sale_Value
 2023, Feb,Radford City,329000
 2023, Feb,Rappahannock County,809900
 2023, Feb,Richmond City,323323
-2023, Feb,Richmond County,N/A
+2023, Feb,Richmond County,
 2023, Feb,Roanoke City,189500
 2023, Feb,Roanoke County,287500
 2023, Feb,Rockbridge County,267000
 2023, Feb,Rockingham County,312500
 2023, Feb,Russell County,153000
 2023, Feb,Salem City,195000
-2023, Feb,Scott County,N/A
+2023, Feb,Scott County,
 2023, Feb,Shenandoah County,303000
 2023, Feb,Smyth County,167450
 2023, Feb,Southampton County,241500
@@ -11434,7 +11434,7 @@ Year,Month,County_City,Median_Sale_Value
 2023, Feb,Westmoreland County,309450
 2023, Feb,Williamsburg City,385000
 2023, Feb,Winchester City,325000
-2023, Feb,Wise County,N/A
+2023, Feb,Wise County,
 2023, Feb,Wythe County,170950
 2023, Feb,York County,385492.5
 2023, Mar,Accomack County,299999
@@ -11470,9 +11470,9 @@ Year,Month,County_City,Median_Sale_Value
 2023, Mar,Culpeper County,485000
 2023, Mar,Cumberland County,274900
 2023, Mar,Danville City,141000
-2023, Mar,Dickenson County,N/A
+2023, Mar,Dickenson County,
 2023, Mar,Dinwiddie County,254500
-2023, Mar,Emporia City,N/A
+2023, Mar,Emporia City,
 2023, Mar,Essex County,315000
 2023, Mar,Fairfax City,607500
 2023, Mar,Fairfax County,655000
@@ -11505,7 +11505,7 @@ Year,Month,County_City,Median_Sale_Value
 2023, Mar,King George County,494000
 2023, Mar,King William County,307000
 2023, Mar,Lancaster County,470000
-2023, Mar,Lee County,N/A
+2023, Mar,Lee County,
 2023, Mar,Lexington City,399000
 2023, Mar,Loudoun County,720000
 2023, Mar,Louisa County,334000
@@ -11567,7 +11567,7 @@ Year,Month,County_City,Median_Sale_Value
 2023, Mar,Westmoreland County,299995
 2023, Mar,Williamsburg City,375000
 2023, Mar,Winchester City,369900
-2023, Mar,Wise County,N/A
+2023, Mar,Wise County,
 2023, Mar,Wythe County,180000
 2023, Mar,York County,401270
 2023, Apr,Accomack County,298000
@@ -11603,7 +11603,7 @@ Year,Month,County_City,Median_Sale_Value
 2023, Apr,Culpeper County,525000
 2023, Apr,Cumberland County,274500
 2023, Apr,Danville City,158100
-2023, Apr,Dickenson County,N/A
+2023, Apr,Dickenson County,
 2023, Apr,Dinwiddie County,268000
 2023, Apr,Emporia City,192000
 2023, Apr,Essex County,263550
@@ -11638,7 +11638,7 @@ Year,Month,County_City,Median_Sale_Value
 2023, Apr,King George County,405000
 2023, Apr,King William County,328250
 2023, Apr,Lancaster County,580000
-2023, Apr,Lee County,N/A
+2023, Apr,Lee County,
 2023, Apr,Lexington City,390000
 2023, Apr,Loudoun County,698250
 2023, Apr,Louisa County,355725
@@ -11658,7 +11658,7 @@ Year,Month,County_City,Median_Sale_Value
 2023, Apr,Norfolk City,288000
 2023, Apr,Northampton County,395000
 2023, Apr,Northumberland County,425000
-2023, Apr,Norton City,N/A
+2023, Apr,Norton City,
 2023, Apr,Nottoway County,162000
 2023, Apr,Orange County,389000
 2023, Apr,Page County,260000
@@ -11675,14 +11675,14 @@ Year,Month,County_City,Median_Sale_Value
 2023, Apr,Radford City,242500
 2023, Apr,Rappahannock County,370000
 2023, Apr,Richmond City,347500
-2023, Apr,Richmond County,N/A
+2023, Apr,Richmond County,
 2023, Apr,Roanoke City,200000
 2023, Apr,Roanoke County,302750
 2023, Apr,Rockbridge County,339000
 2023, Apr,Rockingham County,330000
 2023, Apr,Russell County,65500
 2023, Apr,Salem City,232500
-2023, Apr,Scott County,N/A
+2023, Apr,Scott County,
 2023, Apr,Shenandoah County,280000
 2023, Apr,Smyth County,101000
 2023, Apr,Southampton County,250000
@@ -11700,7 +11700,7 @@ Year,Month,County_City,Median_Sale_Value
 2023, Apr,Westmoreland County,274450
 2023, Apr,Williamsburg City,374000
 2023, Apr,Winchester City,269000
-2023, Apr,Wise County,N/A
+2023, Apr,Wise County,
 2023, Apr,Wythe County,223250
 2023, Apr,York County,409165
 2023, May,Accomack County,370000
@@ -11736,7 +11736,7 @@ Year,Month,County_City,Median_Sale_Value
 2023, May,Culpeper County,486500
 2023, May,Cumberland County,216250
 2023, May,Danville City,136000
-2023, May,Dickenson County,N/A
+2023, May,Dickenson County,
 2023, May,Dinwiddie County,267000
 2023, May,Emporia City,30000
 2023, May,Essex County,315000
@@ -11771,7 +11771,7 @@ Year,Month,County_City,Median_Sale_Value
 2023, May,King George County,456000
 2023, May,King William County,335000
 2023, May,Lancaster County,555000
-2023, May,Lee County,N/A
+2023, May,Lee County,
 2023, May,Lexington City,375500
 2023, May,Loudoun County,710000
 2023, May,Louisa County,389990
@@ -11791,7 +11791,7 @@ Year,Month,County_City,Median_Sale_Value
 2023, May,Norfolk City,303000
 2023, May,Northampton County,462000
 2023, May,Northumberland County,325000
-2023, May,Norton City,N/A
+2023, May,Norton City,
 2023, May,Nottoway County,220000
 2023, May,Orange County,385000
 2023, May,Page County,277500
@@ -11815,7 +11815,7 @@ Year,Month,County_City,Median_Sale_Value
 2023, May,Rockingham County,342900
 2023, May,Russell County,154500
 2023, May,Salem City,285500
-2023, May,Scott County,N/A
+2023, May,Scott County,
 2023, May,Shenandoah County,310000
 2023, May,Smyth County,140500
 2023, May,Southampton County,255000
@@ -11869,9 +11869,9 @@ Year,Month,County_City,Median_Sale_Value
 2023, Jun,Culpeper County,487000
 2023, Jun,Cumberland County,277475
 2023, Jun,Danville City,171050
-2023, Jun,Dickenson County,N/A
+2023, Jun,Dickenson County,
 2023, Jun,Dinwiddie County,259000
-2023, Jun,Emporia City,N/A
+2023, Jun,Emporia City,
 2023, Jun,Essex County,303400
 2023, Jun,Fairfax City,670000
 2023, Jun,Fairfax County,721000
@@ -11924,7 +11924,7 @@ Year,Month,County_City,Median_Sale_Value
 2023, Jun,Norfolk City,310000
 2023, Jun,Northampton County,446000
 2023, Jun,Northumberland County,419500
-2023, Jun,Norton City,N/A
+2023, Jun,Norton City,
 2023, Jun,Nottoway County,190000
 2023, Jun,Orange County,385000
 2023, Jun,Page County,260745
@@ -11948,7 +11948,7 @@ Year,Month,County_City,Median_Sale_Value
 2023, Jun,Rockingham County,349828
 2023, Jun,Russell County,221000
 2023, Jun,Salem City,283800
-2023, Jun,Scott County,N/A
+2023, Jun,Scott County,
 2023, Jun,Shenandoah County,295750
 2023, Jun,Smyth County,125050
 2023, Jun,Southampton County,181250
@@ -11983,7 +11983,7 @@ Year,Month,County_City,Median_Sale_Value
 2023, Jul,Bland County,782500
 2023, Jul,Botetourt County,352475
 2023, Jul,Bristol City,225000
-2023, Jul,Brunswick County,N/A
+2023, Jul,Brunswick County,
 2023, Jul,Buchanan County,100000
 2023, Jul,Buckingham County,198800
 2023, Jul,Buena Vista City,244000
@@ -12002,7 +12002,7 @@ Year,Month,County_City,Median_Sale_Value
 2023, Jul,Culpeper County,441000
 2023, Jul,Cumberland County,201000
 2023, Jul,Danville City,152450
-2023, Jul,Dickenson County,N/A
+2023, Jul,Dickenson County,
 2023, Jul,Dinwiddie County,310000
 2023, Jul,Emporia City,152000
 2023, Jul,Essex County,239000
@@ -12022,7 +12022,7 @@ Year,Month,County_City,Median_Sale_Value
 2023, Jul,Goochland County,620000
 2023, Jul,Grayson County,192900
 2023, Jul,Greene County,399000
-2023, Jul,Greensville County,N/A
+2023, Jul,Greensville County,
 2023, Jul,Halifax County,185000
 2023, Jul,Hampton City,254000
 2023, Jul,Hanover County,411250
@@ -12037,7 +12037,7 @@ Year,Month,County_City,Median_Sale_Value
 2023, Jul,King George County,378000
 2023, Jul,King William County,318000
 2023, Jul,Lancaster County,660000
-2023, Jul,Lee County,N/A
+2023, Jul,Lee County,
 2023, Jul,Lexington City,328000
 2023, Jul,Loudoun County,712500
 2023, Jul,Louisa County,365000
@@ -12057,7 +12057,7 @@ Year,Month,County_City,Median_Sale_Value
 2023, Jul,Norfolk City,311000
 2023, Jul,Northampton County,469900
 2023, Jul,Northumberland County,379500
-2023, Jul,Norton City,N/A
+2023, Jul,Norton City,
 2023, Jul,Nottoway County,136250
 2023, Jul,Orange County,410000
 2023, Jul,Page County,305000
@@ -12081,7 +12081,7 @@ Year,Month,County_City,Median_Sale_Value
 2023, Jul,Rockingham County,330295
 2023, Jul,Russell County,170000
 2023, Jul,Salem City,325000
-2023, Jul,Scott County,N/A
+2023, Jul,Scott County,
 2023, Jul,Shenandoah County,300000
 2023, Jul,Smyth County,185000
 2023, Jul,Southampton County,275000
@@ -12099,7 +12099,7 @@ Year,Month,County_City,Median_Sale_Value
 2023, Jul,Westmoreland County,310000
 2023, Jul,Williamsburg City,334500
 2023, Jul,Winchester City,282500
-2023, Jul,Wise County,N/A
+2023, Jul,Wise County,
 2023, Jul,Wythe County,175000
 2023, Jul,York County,426250
 2023, Aug,Accomack County,295000
@@ -12135,7 +12135,7 @@ Year,Month,County_City,Median_Sale_Value
 2023, Aug,Culpeper County,459000
 2023, Aug,Cumberland County,265750
 2023, Aug,Danville City,170000
-2023, Aug,Dickenson County,N/A
+2023, Aug,Dickenson County,
 2023, Aug,Dinwiddie County,265000
 2023, Aug,Emporia City,183950
 2023, Aug,Essex County,304975
@@ -12170,7 +12170,7 @@ Year,Month,County_City,Median_Sale_Value
 2023, Aug,King George County,450000
 2023, Aug,King William County,335000
 2023, Aug,Lancaster County,395000
-2023, Aug,Lee County,N/A
+2023, Aug,Lee County,
 2023, Aug,Lexington City,387000
 2023, Aug,Loudoun County,687000
 2023, Aug,Louisa County,420870
@@ -12190,7 +12190,7 @@ Year,Month,County_City,Median_Sale_Value
 2023, Aug,Norfolk City,300000
 2023, Aug,Northampton County,413750
 2023, Aug,Northumberland County,452000
-2023, Aug,Norton City, $-   
+2023, Aug,Norton City,
 2023, Aug,Nottoway County,179685
 2023, Aug,Orange County,395500
 2023, Aug,Page County,295000
@@ -12214,7 +12214,7 @@ Year,Month,County_City,Median_Sale_Value
 2023, Aug,Rockingham County,320235
 2023, Aug,Russell County,270000
 2023, Aug,Salem City,285000
-2023, Aug,Scott County,N/A
+2023, Aug,Scott County,
 2023, Aug,Shenandoah County,321500
 2023, Aug,Smyth County,149000
 2023, Aug,Southampton County,269950
@@ -12303,7 +12303,7 @@ Year,Month,County_City,Median_Sale_Value
 2023, Sep,King George County,425000
 2023, Sep,King William County,363900
 2023, Sep,Lancaster County,305000
-2023, Sep,Lee County,N/A
+2023, Sep,Lee County,
 2023, Sep,Lexington City,355450
 2023, Sep,Loudoun County,690116
 2023, Sep,Louisa County,401000
@@ -12323,7 +12323,7 @@ Year,Month,County_City,Median_Sale_Value
 2023, Sep,Norfolk City,295000
 2023, Sep,Northampton County,400000
 2023, Sep,Northumberland County,464450
-2023, Sep,Norton City,N/A
+2023, Sep,Norton City,
 2023, Sep,Nottoway County,195000
 2023, Sep,Orange County,396000
 2023, Sep,Page County,247000
@@ -12347,7 +12347,7 @@ Year,Month,County_City,Median_Sale_Value
 2023, Sep,Rockingham County,334945
 2023, Sep,Russell County,175000
 2023, Sep,Salem City,239950
-2023, Sep,Scott County,N/A
+2023, Sep,Scott County,
 2023, Sep,Shenandoah County,289000
 2023, Sep,Smyth County,164500
 2023, Sep,Southampton County,293385
@@ -12379,7 +12379,7 @@ Year,Month,County_City,Median_Sale_Value
 2023, Oct,Augusta County,327500
 2023, Oct,Bath County,181050
 2023, Oct,Bedford County,375000
-2023, Oct,Bland County,N/A
+2023, Oct,Bland County,
 2023, Oct,Botetourt County,307000
 2023, Oct,Bristol City,214000
 2023, Oct,Brunswick County,299900
@@ -12401,7 +12401,7 @@ Year,Month,County_City,Median_Sale_Value
 2023, Oct,Culpeper County,499000
 2023, Oct,Cumberland County,329500
 2023, Oct,Danville City,164500
-2023, Oct,Dickenson County,N/A
+2023, Oct,Dickenson County,
 2023, Oct,Dinwiddie County,280000
 2023, Oct,Emporia City,166500
 2023, Oct,Essex County,282500
@@ -12436,7 +12436,7 @@ Year,Month,County_City,Median_Sale_Value
 2023, Oct,King George County,430000
 2023, Oct,King William County,314950
 2023, Oct,Lancaster County,303975
-2023, Oct,Lee County,N/A
+2023, Oct,Lee County,
 2023, Oct,Lexington City,330000
 2023, Oct,Loudoun County,665000
 2023, Oct,Louisa County,385000
@@ -12456,7 +12456,7 @@ Year,Month,County_City,Median_Sale_Value
 2023, Oct,Norfolk City,300000
 2023, Oct,Northampton County,438975
 2023, Oct,Northumberland County,480000
-2023, Oct,Norton City,N/A
+2023, Oct,Norton City,
 2023, Oct,Nottoway County,219000
 2023, Oct,Orange County,340000
 2023, Oct,Page County,253750
@@ -12480,7 +12480,7 @@ Year,Month,County_City,Median_Sale_Value
 2023, Oct,Rockingham County,328750
 2023, Oct,Russell County,123763
 2023, Oct,Salem City,255000
-2023, Oct,Scott County,N/A
+2023, Oct,Scott County,
 2023, Oct,Shenandoah County,316950
 2023, Oct,Smyth County,220000
 2023, Oct,Southampton County,189950
@@ -12510,7 +12510,7 @@ Year,Month,County_City,Median_Sale_Value
 2023, Nov,Appomattox County,315000
 2023, Nov,Arlington County,712500
 2023, Nov,Augusta County,318950
-2023, Nov,Bath County,N/A
+2023, Nov,Bath County,
 2023, Nov,Bedford County,349900
 2023, Nov,Bland County,230000
 2023, Nov,Botetourt County,330000
@@ -12534,7 +12534,7 @@ Year,Month,County_City,Median_Sale_Value
 2023, Nov,Culpeper County,434000
 2023, Nov,Cumberland County,267250
 2023, Nov,Danville City,200000
-2023, Nov,Dickenson County,N/A
+2023, Nov,Dickenson County,
 2023, Nov,Dinwiddie County,295000
 2023, Nov,Emporia City,185000
 2023, Nov,Essex County,280000
@@ -12569,7 +12569,7 @@ Year,Month,County_City,Median_Sale_Value
 2023, Nov,King George County,485580
 2023, Nov,King William County,289475
 2023, Nov,Lancaster County,337500
-2023, Nov,Lee County,N/A
+2023, Nov,Lee County,
 2023, Nov,Lexington City,420000
 2023, Nov,Loudoun County,717500
 2023, Nov,Louisa County,397000
@@ -12589,7 +12589,7 @@ Year,Month,County_City,Median_Sale_Value
 2023, Nov,Norfolk City,305000
 2023, Nov,Northampton County,399000
 2023, Nov,Northumberland County,365000
-2023, Nov,Norton City,N/A
+2023, Nov,Norton City,
 2023, Nov,Nottoway County,242000
 2023, Nov,Orange County,375000
 2023, Nov,Page County,234990
@@ -12613,7 +12613,7 @@ Year,Month,County_City,Median_Sale_Value
 2023, Nov,Rockingham County,324900
 2023, Nov,Russell County,335000
 2023, Nov,Salem City,334500
-2023, Nov,Scott County,N/A
+2023, Nov,Scott County,
 2023, Nov,Shenandoah County,325000
 2023, Nov,Smyth County,135000
 2023, Nov,Southampton County,235000
@@ -12667,7 +12667,7 @@ Year,Month,County_City,Median_Sale_Value
 2023, Dec,Culpeper County,435000
 2023, Dec,Cumberland County,250000
 2023, Dec,Danville City,107450
-2023, Dec,Dickenson County,N/A
+2023, Dec,Dickenson County,
 2023, Dec,Dinwiddie County,277500
 2023, Dec,Emporia City,48913
 2023, Dec,Essex County,368700
@@ -12694,7 +12694,7 @@ Year,Month,County_City,Median_Sale_Value
 2023, Dec,Harrisonburg City,295000
 2023, Dec,Henrico County,399995
 2023, Dec,Henry County,159900
-2023, Dec,Highland County,N/A
+2023, Dec,Highland County,
 2023, Dec,Hopewell City,180000
 2023, Dec,Isle of Wight County,372315
 2023, Dec,James City County,437500
@@ -12702,7 +12702,7 @@ Year,Month,County_City,Median_Sale_Value
 2023, Dec,King George County,495000
 2023, Dec,King William County,327500
 2023, Dec,Lancaster County,358128
-2023, Dec,Lee County,N/A
+2023, Dec,Lee County,
 2023, Dec,Lexington City,327000
 2023, Dec,Loudoun County,670000
 2023, Dec,Louisa County,360000
@@ -12722,7 +12722,7 @@ Year,Month,County_City,Median_Sale_Value
 2023, Dec,Norfolk City,300000
 2023, Dec,Northampton County,370000
 2023, Dec,Northumberland County,304000
-2023, Dec,Norton City,N/A
+2023, Dec,Norton City,
 2023, Dec,Nottoway County,239750
 2023, Dec,Orange County,388250
 2023, Dec,Page County,245000
@@ -12746,7 +12746,7 @@ Year,Month,County_City,Median_Sale_Value
 2023, Dec,Rockingham County,335000
 2023, Dec,Russell County,180000
 2023, Dec,Salem City,245000
-2023, Dec,Scott County,N/A
+2023, Dec,Scott County,
 2023, Dec,Shenandoah County,297500
 2023, Dec,Smyth County,153000
 2023, Dec,Southampton County,220000
